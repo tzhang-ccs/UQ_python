@@ -1,0 +1,3 @@
+2022-09-07 10:17:17 | INFO | Parameter bounds are:
+2022-09-07 10:17:17 | INFO | 	zmconv_c0_ocn:	(0.001, 0.01)
+2022-09-07 10:17:17 | INFO | 	zmconv_dmpdz:	(-0.0009, -0.0004)

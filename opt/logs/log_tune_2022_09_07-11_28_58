@@ -1,0 +1,652 @@
+2022-09-07 11:28:58 | INFO | Parameter bounds are:
+2022-09-07 11:28:58 | INFO | 	zmconv_c0_ocn:	(0.001, 0.01)
+2022-09-07 11:28:58 | INFO | 	zmconv_dmpdz:	(-0.0009, -0.0004)
+2022-09-07 11:28:58 | INFO | Parameter values are:
+2022-09-07 11:28:58 | INFO | 	zmconv_c0_ocn:	 0.007941885789400714
+2022-09-07 11:28:58 | INFO | 	zmconv_dmpdz:	 -0.0008896240253202992
+2022-09-07 11:29:07 | INFO | Submit SCAM with job id 62569365
+2022-09-07 11:59:12 | INFO | Cost metrics is: 2.42
+2022-09-07 11:59:12 | INFO | Parameter values are:
+2022-09-07 11:59:12 | INFO | 	zmconv_c0_ocn:	 0.00670283411433648
+2022-09-07 11:59:12 | INFO | 	zmconv_dmpdz:	 -0.0005255980587306941
+2022-09-07 11:59:25 | INFO | Submit SCAM with job id 62570131
+2022-09-07 12:09:25 | INFO | Cost metrics is: 1.72
+2022-09-07 12:09:25 | INFO | Parameter values are:
+2022-09-07 12:09:26 | INFO | 	zmconv_c0_ocn:	 0.005486563110723314
+2022-09-07 12:09:26 | INFO | 	zmconv_dmpdz:	 -0.0007876016772345761
+2022-09-07 12:09:37 | INFO | Submit SCAM with job id 62570603
+2022-09-07 12:24:39 | INFO | Cost metrics is: 2.35
+2022-09-07 12:24:39 | INFO | Parameter values are:
+2022-09-07 12:24:39 | INFO | 	zmconv_c0_ocn:	 0.002782565782836616
+2022-09-07 12:24:39 | INFO | 	zmconv_dmpdz:	 -0.0005197346439005206
+2022-09-07 12:24:50 | INFO | Submit SCAM with job id 62571766
+2022-09-07 12:34:51 | INFO | Cost metrics is: 1.70
+2022-09-07 12:34:51 | INFO | Parameter values are:
+2022-09-07 12:34:51 | INFO | 	zmconv_c0_ocn:	 0.0025219975290628194
+2022-09-07 12:34:51 | INFO | 	zmconv_dmpdz:	 -0.0008558300929129948
+2022-09-07 12:35:02 | INFO | Submit SCAM with job id 62572296
+2022-09-07 12:45:06 | INFO | Cost metrics is: 2.44
+2022-09-07 12:45:06 | INFO | Parameter values are:
+2022-09-07 12:45:06 | INFO | 	zmconv_c0_ocn:	 0.007168238365310176
+2022-09-07 12:45:06 | INFO | 	zmconv_dmpdz:	 -0.0004233033269025317
+2022-09-07 12:45:16 | INFO | Submit SCAM with job id 62572725
+2022-09-07 12:55:18 | INFO | Cost metrics is: 1.17
+2022-09-07 12:55:18 | INFO | Parameter values are:
+2022-09-07 12:55:18 | INFO | 	zmconv_c0_ocn:	 0.00103553439695123
+2022-09-07 12:55:18 | INFO | 	zmconv_dmpdz:	 -0.0006439038683071117
+2022-09-07 12:55:31 | INFO | Submit SCAM with job id 62573076
+2022-09-07 13:05:34 | INFO | Cost metrics is: 2.09
+2022-09-07 13:05:34 | INFO | Parameter values are:
+2022-09-07 13:05:34 | INFO | 	zmconv_c0_ocn:	 0.008313588654869022
+2022-09-07 13:05:34 | INFO | 	zmconv_dmpdz:	 -0.0005937369665853059
+2022-09-07 13:05:48 | INFO | Submit SCAM with job id 62573597
+2022-09-07 13:15:51 | INFO | Cost metrics is: 1.95
+2022-09-07 13:15:51 | INFO | Parameter values are:
+2022-09-07 13:15:51 | INFO | 	zmconv_c0_ocn:	 0.007495797856886197
+2022-09-07 13:15:51 | INFO | 	zmconv_dmpdz:	 -0.0007540619659146834
+2022-09-07 13:16:07 | INFO | Submit SCAM with job id 62574123
+2022-09-07 13:26:09 | INFO | Cost metrics is: 2.30
+2022-09-07 13:26:09 | INFO | Parameter values are:
+2022-09-07 13:26:09 | INFO | 	zmconv_c0_ocn:	 0.009259967102616493
+2022-09-07 13:26:09 | INFO | 	zmconv_dmpdz:	 -0.0005427121083011547
+2022-09-07 13:26:34 | INFO | Submit SCAM with job id 62574803
+2022-09-07 13:36:36 | INFO | Cost metrics is: 1.75
+2022-09-07 13:36:36 | INFO | Parameter values are:
+2022-09-07 13:36:36 | INFO | 	zmconv_c0_ocn:	 0.005882899312101352
+2022-09-07 13:36:36 | INFO | 	zmconv_dmpdz:	 -0.0008289149761992365
+2022-09-07 13:36:51 | INFO | Submit SCAM with job id 62575306
+2022-09-07 13:46:55 | INFO | Cost metrics is: 2.39
+2022-09-07 13:46:55 | INFO | Parameter values are:
+2022-09-07 13:46:55 | INFO | 	zmconv_c0_ocn:	 0.0043600668404632234
+2022-09-07 13:46:55 | INFO | 	zmconv_dmpdz:	 -0.0005629331924668273
+2022-09-07 13:47:46 | INFO | Submit SCAM with job id 62575669
+2022-09-07 13:57:48 | INFO | Cost metrics is: 1.82
+2022-09-07 13:57:48 | INFO | Parameter values are:
+2022-09-07 13:57:48 | INFO | 	zmconv_c0_ocn:	 0.004976498569806965
+2022-09-07 13:57:48 | INFO | 	zmconv_dmpdz:	 -0.0006829930033333531
+2022-09-07 13:58:28 | INFO | Submit SCAM with job id 62576459
+2022-09-07 14:08:32 | INFO | Cost metrics is: 2.18
+2022-09-07 14:08:32 | INFO | Parameter values are:
+2022-09-07 14:08:32 | INFO | 	zmconv_c0_ocn:	 0.006559902806223855
+2022-09-07 14:08:32 | INFO | 	zmconv_dmpdz:	 -0.0006434308787228045
+2022-09-07 14:08:45 | INFO | Submit SCAM with job id 62577301
+2022-09-07 14:18:47 | INFO | Cost metrics is: 2.09
+2022-09-07 14:18:47 | INFO | Parameter values are:
+2022-09-07 14:18:47 | INFO | 	zmconv_c0_ocn:	 0.0068535746373832055
+2022-09-07 14:18:47 | INFO | 	zmconv_dmpdz:	 -0.0005994805232977277
+2022-09-07 14:18:58 | INFO | Submit SCAM with job id 62577818
+2022-09-07 14:28:59 | INFO | Cost metrics is: 1.97
+2022-09-07 14:28:59 | INFO | Parameter values are:
+2022-09-07 14:28:59 | INFO | 	zmconv_c0_ocn:	 0.008247008771494719
+2022-09-07 14:28:59 | INFO | 	zmconv_dmpdz:	 -0.0006391764238031828
+2022-09-07 14:29:12 | INFO | Submit SCAM with job id 62578294
+2022-09-07 14:39:16 | INFO | Cost metrics is: 2.08
+2022-09-07 14:39:16 | INFO | Parameter values are:
+2022-09-07 14:39:16 | INFO | 	zmconv_c0_ocn:	 0.009177839927278015
+2022-09-07 14:39:16 | INFO | 	zmconv_dmpdz:	 -0.0007403819555057273
+2022-09-07 14:39:30 | INFO | Submit SCAM with job id 62579493
+2022-09-07 14:49:32 | INFO | Cost metrics is: 2.28
+2022-09-07 14:49:32 | INFO | Parameter values are:
+2022-09-07 14:49:32 | INFO | 	zmconv_c0_ocn:	 0.0018141341434381665
+2022-09-07 14:49:32 | INFO | 	zmconv_dmpdz:	 -0.0007496499716818983
+2022-09-07 14:49:46 | INFO | Submit SCAM with job id 62580275
+2022-09-07 14:59:49 | INFO | Cost metrics is: 2.29
+2022-09-07 14:59:49 | INFO | Parameter values are:
+2022-09-07 14:59:49 | INFO | 	zmconv_c0_ocn:	 0.002025859256771948
+2022-09-07 14:59:49 | INFO | 	zmconv_dmpdz:	 -0.00048565933684616163
+2022-09-07 15:00:02 | INFO | Submit SCAM with job id 62580944
+2022-09-07 15:10:06 | INFO | Cost metrics is: 1.55
+2022-09-07 15:10:06 | INFO | Parameter values are:
+2022-09-07 15:10:06 | INFO | 	zmconv_c0_ocn:	 0.001422066874503248
+2022-09-07 15:10:06 | INFO | 	zmconv_dmpdz:	 -0.0005868564258443037
+2022-09-07 15:10:20 | INFO | Submit SCAM with job id 62581696
+2022-09-07 15:15:22 | INFO | Cost metrics is: 1.94
+2022-09-07 15:15:22 | INFO | Parameter values are:
+2022-09-07 15:15:22 | INFO | 	zmconv_c0_ocn:	 0.007168109761184383
+2022-09-07 15:15:22 | INFO | 	zmconv_dmpdz:	 -0.0004389355842723155
+2022-09-07 15:15:35 | INFO | Submit SCAM with job id 62581988
+2022-09-07 15:25:37 | INFO | Cost metrics is: 1.28
+2022-09-07 15:25:38 | INFO | Parameter values are:
+2022-09-07 15:25:38 | INFO | 	zmconv_c0_ocn:	 0.007220813731513224
+2022-09-07 15:25:38 | INFO | 	zmconv_dmpdz:	 -0.00040341905936371264
+2022-09-07 15:25:49 | INFO | Submit SCAM with job id 62582555
+2022-09-07 15:35:51 | INFO | Cost metrics is: 1.04
+2022-09-07 15:35:52 | INFO | Parameter values are:
+2022-09-07 15:35:52 | INFO | 	zmconv_c0_ocn:	 0.007325250937608552
+2022-09-07 15:35:52 | INFO | 	zmconv_dmpdz:	 -0.00040484530242899334
+2022-09-07 15:36:02 | INFO | Submit SCAM with job id 62583096
+2022-09-07 15:46:03 | INFO | Cost metrics is: 1.05
+2022-09-07 15:46:03 | INFO | Parameter values are:
+2022-09-07 15:46:03 | INFO | 	zmconv_c0_ocn:	 0.0074809654667904145
+2022-09-07 15:46:03 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 15:46:14 | INFO | Submit SCAM with job id 62583625
+2022-09-07 15:56:18 | INFO | Cost metrics is: 1.04
+2022-09-07 15:56:18 | INFO | Parameter values are:
+2022-09-07 15:56:18 | INFO | 	zmconv_c0_ocn:	 0.007698126909303408
+2022-09-07 15:56:18 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 15:56:28 | INFO | Submit SCAM with job id 62584004
+2022-09-07 16:06:31 | INFO | Cost metrics is: 1.04
+2022-09-07 16:06:31 | INFO | Parameter values are:
+2022-09-07 16:06:31 | INFO | 	zmconv_c0_ocn:	 0.009690802399724393
+2022-09-07 16:06:31 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 16:06:42 | INFO | Submit SCAM with job id 62584354
+2022-09-07 16:16:45 | INFO | Cost metrics is: 1.04
+2022-09-07 16:16:45 | INFO | Parameter values are:
+2022-09-07 16:16:46 | INFO | 	zmconv_c0_ocn:	 0.00999914754076313
+2022-09-07 16:16:46 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 16:17:02 | INFO | Submit SCAM with job id 62584738
+2022-09-07 16:27:05 | INFO | Cost metrics is: 1.04
+2022-09-07 16:27:05 | INFO | Parameter values are:
+2022-09-07 16:27:05 | INFO | 	zmconv_c0_ocn:	 0.009904804691327465
+2022-09-07 16:27:05 | INFO | 	zmconv_dmpdz:	 -0.0007169657093219088
+2022-09-07 16:27:15 | INFO | Submit SCAM with job id 62585141
+2022-09-07 16:37:17 | INFO | Cost metrics is: 2.26
+2022-09-07 16:37:17 | INFO | Parameter values are:
+2022-09-07 16:37:17 | INFO | 	zmconv_c0_ocn:	 0.003316288996777955
+2022-09-07 16:37:17 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 16:37:27 | INFO | Submit SCAM with job id 62585529
+2022-09-07 16:47:30 | INFO | Cost metrics is: 1.04
+2022-09-07 16:47:30 | INFO | Parameter values are:
+2022-09-07 16:47:30 | INFO | 	zmconv_c0_ocn:	 0.003515813437876871
+2022-09-07 16:47:30 | INFO | 	zmconv_dmpdz:	 -0.0006443665073149803
+2022-09-07 16:47:41 | INFO | Submit SCAM with job id 62585929
+2022-09-07 16:52:43 | INFO | Cost metrics is: 2.09
+2022-09-07 16:52:43 | INFO | Parameter values are:
+2022-09-07 16:52:43 | INFO | 	zmconv_c0_ocn:	 0.003100345646188303
+2022-09-07 16:52:43 | INFO | 	zmconv_dmpdz:	 -0.0004003202470544626
+2022-09-07 16:52:52 | INFO | Submit SCAM with job id 62586100
+2022-09-07 17:02:53 | INFO | Cost metrics is: 1.04
+2022-09-07 17:02:53 | INFO | Parameter values are:
+2022-09-07 17:02:53 | INFO | 	zmconv_c0_ocn:	 0.0031374175017495876
+2022-09-07 17:02:53 | INFO | 	zmconv_dmpdz:	 -0.000619252357479724
+2022-09-07 17:03:08 | INFO | Submit SCAM with job id 62586345
+2022-09-07 17:13:09 | INFO | Cost metrics is: 2.00
+2022-09-07 17:13:10 | INFO | Parameter values are:
+2022-09-07 17:13:10 | INFO | 	zmconv_c0_ocn:	 0.008745905910906938
+2022-09-07 17:13:10 | INFO | 	zmconv_dmpdz:	 -0.00040779856069311576
+2022-09-07 17:13:20 | INFO | Submit SCAM with job id 62586600
+2022-09-07 17:23:22 | INFO | Cost metrics is: 1.05
+2022-09-07 17:23:26 | INFO | Parameter values are:
+2022-09-07 17:23:26 | INFO | 	zmconv_c0_ocn:	 0.00893998543327908
+2022-09-07 17:23:26 | INFO | 	zmconv_dmpdz:	 -0.00040144355852354103
+2022-09-07 17:23:39 | INFO | Submit SCAM with job id 62586860
+2022-09-07 17:33:41 | INFO | Cost metrics is: 1.04
+2022-09-07 17:33:44 | INFO | Parameter values are:
+2022-09-07 17:33:44 | INFO | 	zmconv_c0_ocn:	 0.008726342832543798
+2022-09-07 17:33:44 | INFO | 	zmconv_dmpdz:	 -0.0006550412954945757
+2022-09-07 17:33:57 | INFO | Submit SCAM with job id 62587111
+2022-09-07 17:44:00 | INFO | Cost metrics is: 2.11
+2022-09-07 17:44:04 | INFO | Parameter values are:
+2022-09-07 17:44:04 | INFO | 	zmconv_c0_ocn:	 0.007965458612417351
+2022-09-07 17:44:04 | INFO | 	zmconv_dmpdz:	 -0.00040215049420373034
+2022-09-07 17:44:16 | INFO | Submit SCAM with job id 62587355
+2022-09-07 17:54:20 | INFO | Cost metrics is: 1.03
+2022-09-07 17:54:22 | INFO | Parameter values are:
+2022-09-07 17:54:22 | INFO | 	zmconv_c0_ocn:	 0.003899816129254238
+2022-09-07 17:54:22 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 17:54:34 | INFO | Submit SCAM with job id 62587663
+2022-09-07 18:04:37 | INFO | Cost metrics is: 1.04
+2022-09-07 18:04:39 | INFO | Parameter values are:
+2022-09-07 18:04:39 | INFO | 	zmconv_c0_ocn:	 0.00403691711725613
+2022-09-07 18:04:39 | INFO | 	zmconv_dmpdz:	 -0.0009
+2022-09-07 18:04:51 | INFO | Submit SCAM with job id 62587934
+2022-09-07 18:09:53 | INFO | Cost metrics is: 2.43
+2022-09-07 18:09:55 | INFO | Parameter values are:
+2022-09-07 18:09:55 | INFO | 	zmconv_c0_ocn:	 0.003670129209750242
+2022-09-07 18:09:55 | INFO | 	zmconv_dmpdz:	 -0.0004012129303970406
+2022-09-07 18:10:07 | INFO | Submit SCAM with job id 62588098
+2022-09-07 18:20:09 | INFO | Cost metrics is: 1.04
+2022-09-07 18:20:12 | INFO | Parameter values are:
+2022-09-07 18:20:12 | INFO | 	zmconv_c0_ocn:	 0.002345699718442143
+2022-09-07 18:20:12 | INFO | 	zmconv_dmpdz:	 -0.0004050275237688358
+2022-09-07 18:20:22 | INFO | Submit SCAM with job id 62588354
+2022-09-07 18:25:24 | INFO | Cost metrics is: 1.05
+2022-09-07 18:25:27 | INFO | Parameter values are:
+2022-09-07 18:25:27 | INFO | 	zmconv_c0_ocn:	 0.009860844360606105
+2022-09-07 18:25:27 | INFO | 	zmconv_dmpdz:	 -0.0004023550821655225
+2022-09-07 18:25:38 | INFO | Submit SCAM with job id 62588526
+2022-09-07 18:35:41 | INFO | Cost metrics is: 1.03
+2022-09-07 18:35:44 | INFO | Parameter values are:
+2022-09-07 18:35:44 | INFO | 	zmconv_c0_ocn:	 0.006957258589583942
+2022-09-07 18:35:44 | INFO | 	zmconv_dmpdz:	 -0.00040099262750945474
+2022-09-07 18:35:57 | INFO | Submit SCAM with job id 62589021
+2022-09-07 18:40:58 | INFO | Cost metrics is: 1.05
+2022-09-07 18:41:02 | INFO | Parameter values are:
+2022-09-07 18:41:02 | INFO | 	zmconv_c0_ocn:	 0.002534371764410947
+2022-09-07 18:41:02 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 18:41:12 | INFO | Submit SCAM with job id 62589128
+2022-09-07 18:46:12 | INFO | Cost metrics is: 1.04
+2022-09-07 18:46:16 | INFO | Parameter values are:
+2022-09-07 18:46:16 | INFO | 	zmconv_c0_ocn:	 0.008539776844036487
+2022-09-07 18:46:16 | INFO | 	zmconv_dmpdz:	 -0.0004011233500235274
+2022-09-07 18:46:26 | INFO | Submit SCAM with job id 62589345
+2022-09-07 18:56:28 | INFO | Cost metrics is: 1.04
+2022-09-07 18:56:33 | INFO | Parameter values are:
+2022-09-07 18:56:33 | INFO | 	zmconv_c0_ocn:	 0.008282556629235525
+2022-09-07 18:56:33 | INFO | 	zmconv_dmpdz:	 -0.00040256013307305154
+2022-09-07 18:56:44 | INFO | Submit SCAM with job id 62589788
+2022-09-07 19:01:46 | INFO | Cost metrics is: 1.04
+2022-09-07 19:01:51 | INFO | Parameter values are:
+2022-09-07 19:01:51 | INFO | 	zmconv_c0_ocn:	 0.009483180335188949
+2022-09-07 19:01:51 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 19:02:05 | INFO | Submit SCAM with job id 62589917
+2022-09-07 19:12:07 | INFO | Cost metrics is: 1.04
+2022-09-07 19:12:12 | INFO | Parameter values are:
+2022-09-07 19:12:12 | INFO | 	zmconv_c0_ocn:	 0.0041140721801341765
+2022-09-07 19:12:12 | INFO | 	zmconv_dmpdz:	 -0.00040102502911374175
+2022-09-07 19:12:21 | INFO | Submit SCAM with job id 62590217
+2022-09-07 19:17:22 | INFO | Cost metrics is: 1.04
+2022-09-07 19:17:27 | INFO | Parameter values are:
+2022-09-07 19:17:27 | INFO | 	zmconv_c0_ocn:	 0.00808707569097579
+2022-09-07 19:17:27 | INFO | 	zmconv_dmpdz:	 -0.0004049964210960968
+2022-09-07 19:17:36 | INFO | Submit SCAM with job id 62590357
+2022-09-07 19:22:36 | INFO | Cost metrics is: 1.05
+2022-09-07 19:22:40 | INFO | Parameter values are:
+2022-09-07 19:22:40 | INFO | 	zmconv_c0_ocn:	 0.0035217617453849486
+2022-09-07 19:22:40 | INFO | 	zmconv_dmpdz:	 -0.00040090670315034906
+2022-09-07 19:22:51 | INFO | Submit SCAM with job id 62590492
+2022-09-07 19:32:54 | INFO | Cost metrics is: 1.04
+2022-09-07 19:32:58 | INFO | Parameter values are:
+2022-09-07 19:32:58 | INFO | 	zmconv_c0_ocn:	 0.00919712481957741
+2022-09-07 19:32:58 | INFO | 	zmconv_dmpdz:	 -0.00040223563612333296
+2022-09-07 19:33:07 | INFO | Submit SCAM with job id 62590836
+2022-09-07 19:43:09 | INFO | Cost metrics is: 1.03
+2022-09-07 19:43:14 | INFO | Parameter values are:
+2022-09-07 19:43:14 | INFO | 	zmconv_c0_ocn:	 0.006201357369241081
+2022-09-07 19:43:14 | INFO | 	zmconv_dmpdz:	 -0.0004003059627140827
+2022-09-07 19:43:25 | INFO | Submit SCAM with job id 62591094
+2022-09-07 19:48:27 | INFO | Cost metrics is: 1.04
+2022-09-07 19:48:31 | INFO | Parameter values are:
+2022-09-07 19:48:31 | INFO | 	zmconv_c0_ocn:	 0.005896250781823058
+2022-09-07 19:48:31 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 19:48:42 | INFO | Submit SCAM with job id 62591249
+2022-09-07 19:58:46 | INFO | Cost metrics is: 1.04
+2022-09-07 19:58:51 | INFO | Parameter values are:
+2022-09-07 19:58:51 | INFO | 	zmconv_c0_ocn:	 0.0055384271106913244
+2022-09-07 19:58:51 | INFO | 	zmconv_dmpdz:	 -0.0004001040159318374
+2022-09-07 19:59:02 | INFO | Submit SCAM with job id 62591516
+2022-09-07 20:09:05 | INFO | Cost metrics is: 1.04
+2022-09-07 20:09:11 | INFO | Parameter values are:
+2022-09-07 20:09:11 | INFO | 	zmconv_c0_ocn:	 0.0052717840788872004
+2022-09-07 20:09:11 | INFO | 	zmconv_dmpdz:	 -0.0004126668000987609
+2022-09-07 20:09:24 | INFO | Submit SCAM with job id 62591758
+2022-09-07 20:19:28 | INFO | Cost metrics is: 1.09
+2022-09-07 20:19:34 | INFO | Parameter values are:
+2022-09-07 20:19:34 | INFO | 	zmconv_c0_ocn:	 0.006055425224110364
+2022-09-07 20:19:34 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 20:19:46 | INFO | Submit SCAM with job id 62592003
+2022-09-07 20:24:46 | INFO | Cost metrics is: 1.04
+2022-09-07 20:24:52 | INFO | Parameter values are:
+2022-09-07 20:24:52 | INFO | 	zmconv_c0_ocn:	 0.004949671599121794
+2022-09-07 20:24:52 | INFO | 	zmconv_dmpdz:	 -0.0004011168958738934
+2022-09-07 20:25:01 | INFO | Submit SCAM with job id 62592118
+2022-09-07 20:35:04 | INFO | Cost metrics is: 1.04
+2022-09-07 20:35:12 | INFO | Parameter values are:
+2022-09-07 20:35:12 | INFO | 	zmconv_c0_ocn:	 0.004619976686871522
+2022-09-07 20:35:12 | INFO | 	zmconv_dmpdz:	 -0.00040062289401992656
+2022-09-07 20:35:21 | INFO | Submit SCAM with job id 62592519
+2022-09-07 20:45:23 | INFO | Cost metrics is: 1.04
+2022-09-07 20:45:28 | INFO | Parameter values are:
+2022-09-07 20:45:28 | INFO | 	zmconv_c0_ocn:	 0.004741650960266797
+2022-09-07 20:45:28 | INFO | 	zmconv_dmpdz:	 -0.0004007641110509249
+2022-09-07 20:45:41 | INFO | Submit SCAM with job id 62592919
+2022-09-07 20:55:43 | INFO | Cost metrics is: 1.04
+2022-09-07 20:55:49 | INFO | Parameter values are:
+2022-09-07 20:55:49 | INFO | 	zmconv_c0_ocn:	 0.004400710779005264
+2022-09-07 20:55:49 | INFO | 	zmconv_dmpdz:	 -0.00040037909742854285
+2022-09-07 20:56:00 | INFO | Submit SCAM with job id 62593308
+2022-09-07 21:06:06 | INFO | Cost metrics is: 1.04
+2022-09-07 21:06:13 | INFO | Parameter values are:
+2022-09-07 21:06:13 | INFO | 	zmconv_c0_ocn:	 0.005708839620499285
+2022-09-07 21:06:13 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 21:06:26 | INFO | Submit SCAM with job id 62593732
+2022-09-07 21:16:29 | INFO | Cost metrics is: 1.04
+2022-09-07 21:16:36 | INFO | Parameter values are:
+2022-09-07 21:16:36 | INFO | 	zmconv_c0_ocn:	 0.00647516206153062
+2022-09-07 21:16:36 | INFO | 	zmconv_dmpdz:	 -0.0004035044359964432
+2022-09-07 21:16:46 | INFO | Submit SCAM with job id 62593995
+2022-09-07 21:26:49 | INFO | Cost metrics is: 1.04
+2022-09-07 21:26:56 | INFO | Parameter values are:
+2022-09-07 21:26:56 | INFO | 	zmconv_c0_ocn:	 0.00635746810750707
+2022-09-07 21:26:56 | INFO | 	zmconv_dmpdz:	 -0.00040216851536245795
+2022-09-07 21:27:05 | INFO | Submit SCAM with job id 62594255
+2022-09-07 21:37:08 | INFO | Cost metrics is: 1.03
+2022-09-07 21:37:15 | INFO | Parameter values are:
+2022-09-07 21:37:15 | INFO | 	zmconv_c0_ocn:	 0.005072496040174469
+2022-09-07 21:37:15 | INFO | 	zmconv_dmpdz:	 -0.0004031353255216282
+2022-09-07 21:37:25 | INFO | Submit SCAM with job id 62594508
+2022-09-07 21:47:29 | INFO | Cost metrics is: 1.04
+2022-09-07 21:47:36 | INFO | Parameter values are:
+2022-09-07 21:47:36 | INFO | 	zmconv_c0_ocn:	 0.009080212551370547
+2022-09-07 21:47:36 | INFO | 	zmconv_dmpdz:	 -0.0004026873835881969
+2022-09-07 21:47:48 | INFO | Submit SCAM with job id 62595737
+2022-09-07 21:52:50 | INFO | Cost metrics is: 1.04
+2022-09-07 21:53:00 | INFO | Parameter values are:
+2022-09-07 21:53:00 | INFO | 	zmconv_c0_ocn:	 0.0031986546984860663
+2022-09-07 21:53:00 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-07 21:53:11 | INFO | Submit SCAM with job id 62596312
+2022-09-07 22:03:14 | INFO | Cost metrics is: 1.04
+2022-09-07 22:03:25 | INFO | Parameter values are:
+2022-09-07 22:03:25 | INFO | 	zmconv_c0_ocn:	 0.004271511089577077
+2022-09-07 22:03:25 | INFO | 	zmconv_dmpdz:	 -0.00040117139910139004
+2022-09-07 22:03:37 | INFO | Submit SCAM with job id 62597213
+2022-09-07 22:13:38 | INFO | Cost metrics is: 1.04
+2022-09-07 22:13:50 | INFO | Parameter values are:
+2022-09-07 22:13:50 | INFO | 	zmconv_c0_ocn:	 0.009321666787813838
+2022-09-07 22:13:50 | INFO | 	zmconv_dmpdz:	 -0.00040023580910955613
+2022-09-07 22:14:02 | INFO | Submit SCAM with job id 62597447
+2022-09-07 22:24:04 | INFO | Cost metrics is: 1.04
+2022-09-07 22:24:18 | INFO | Parameter values are:
+2022-09-07 22:24:18 | INFO | 	zmconv_c0_ocn:	 0.007830543587405425
+2022-09-07 22:24:18 | INFO | 	zmconv_dmpdz:	 -0.0004050772961857566
+2022-09-07 22:24:31 | INFO | Submit SCAM with job id 62597680
+2022-09-07 22:34:35 | INFO | Cost metrics is: 1.05
+2022-09-07 22:34:46 | INFO | Parameter values are:
+2022-09-07 22:34:46 | INFO | 	zmconv_c0_ocn:	 0.008649442744743205
+2022-09-07 22:34:46 | INFO | 	zmconv_dmpdz:	 -0.00040333695613071184
+2022-09-07 22:34:56 | INFO | Submit SCAM with job id 62597943
+2022-09-07 22:39:58 | INFO | Cost metrics is: 1.04
+2022-09-07 22:40:11 | INFO | Parameter values are:
+2022-09-07 22:40:11 | INFO | 	zmconv_c0_ocn:	 0.007086285544041354
+2022-09-07 22:40:11 | INFO | 	zmconv_dmpdz:	 -0.00040101102506834416
+2022-09-07 22:40:21 | INFO | Submit SCAM with job id 62598462
+2022-09-07 22:45:22 | INFO | Cost metrics is: 1.04
+2022-09-07 22:45:36 | INFO | Parameter values are:
+2022-09-07 22:45:36 | INFO | 	zmconv_c0_ocn:	 0.006791375065023899
+2022-09-07 22:45:36 | INFO | 	zmconv_dmpdz:	 -0.000401648939340945
+2022-09-07 22:45:46 | INFO | Submit SCAM with job id 62598811
+2022-09-07 22:55:48 | INFO | Cost metrics is: 1.04
+2022-09-07 22:56:01 | INFO | Parameter values are:
+2022-09-07 22:56:01 | INFO | 	zmconv_c0_ocn:	 0.0024058942580824473
+2022-09-07 22:56:01 | INFO | 	zmconv_dmpdz:	 -0.00040027953920110956
+2022-09-07 22:56:09 | INFO | Submit SCAM with job id 62599285
+2022-09-07 23:01:10 | INFO | Cost metrics is: 1.04
+2022-09-07 23:01:24 | INFO | Parameter values are:
+2022-09-07 23:01:24 | INFO | 	zmconv_c0_ocn:	 0.0028602220801830186
+2022-09-07 23:01:24 | INFO | 	zmconv_dmpdz:	 -0.00040184320931582816
+2022-09-07 23:01:33 | INFO | Submit SCAM with job id 62599498
+2022-09-07 23:06:35 | INFO | Cost metrics is: 1.03
+2022-09-07 23:06:52 | INFO | Parameter values are:
+2022-09-07 23:06:52 | INFO | 	zmconv_c0_ocn:	 0.002959946537443558
+2022-09-07 23:06:52 | INFO | 	zmconv_dmpdz:	 -0.0004006237970102962
+2022-09-07 23:07:01 | INFO | Submit SCAM with job id 62599716
+2022-09-07 23:12:03 | INFO | Cost metrics is: 1.04
+2022-09-07 23:12:19 | INFO | Parameter values are:
+2022-09-07 23:12:19 | INFO | 	zmconv_c0_ocn:	 0.0026960006334116
+2022-09-07 23:12:19 | INFO | 	zmconv_dmpdz:	 -0.0004010779383850936
+2022-09-07 23:12:28 | INFO | Submit SCAM with job id 62599880
+2022-09-07 23:17:30 | INFO | Cost metrics is: 1.04
+2022-09-07 23:17:45 | INFO | Parameter values are:
+2022-09-07 23:17:45 | INFO | 	zmconv_c0_ocn:	 0.008388518090680086
+2022-09-07 23:17:45 | INFO | 	zmconv_dmpdz:	 -0.0004008824137303836
+2022-09-07 23:17:56 | INFO | Submit SCAM with job id 62600021
+2022-09-07 23:22:58 | INFO | Cost metrics is: 1.04
+2022-09-07 23:23:15 | INFO | Parameter values are:
+2022-09-07 23:23:15 | INFO | 	zmconv_c0_ocn:	 0.0037952049923807556
+2022-09-07 23:23:15 | INFO | 	zmconv_dmpdz:	 -0.0004027167052372575
+2022-09-07 23:23:25 | INFO | Submit SCAM with job id 62600128
+2022-09-07 23:33:27 | INFO | Cost metrics is: 1.04
+2022-09-07 23:33:43 | INFO | Parameter values are:
+2022-09-07 23:33:43 | INFO | 	zmconv_c0_ocn:	 0.005459348097183073
+2022-09-07 23:33:43 | INFO | 	zmconv_dmpdz:	 -0.00040052446208115435
+2022-09-07 23:33:53 | INFO | Submit SCAM with job id 62600420
+2022-09-07 23:43:56 | INFO | Cost metrics is: 1.04
+2022-09-07 23:44:10 | INFO | Parameter values are:
+2022-09-07 23:44:10 | INFO | 	zmconv_c0_ocn:	 0.006587101490320714
+2022-09-07 23:44:10 | INFO | 	zmconv_dmpdz:	 -0.0004007291835056709
+2022-09-07 23:44:21 | INFO | Submit SCAM with job id 62600712
+2022-09-07 23:54:25 | INFO | Cost metrics is: 1.04
+2022-09-07 23:54:38 | INFO | Parameter values are:
+2022-09-07 23:54:38 | INFO | 	zmconv_c0_ocn:	 0.0021985775591335348
+2022-09-07 23:54:38 | INFO | 	zmconv_dmpdz:	 -0.0004038051159313378
+2022-09-07 23:54:48 | INFO | Submit SCAM with job id 62600899
+2022-09-07 23:59:50 | INFO | Cost metrics is: 1.04
+2022-09-08 00:00:07 | INFO | Parameter values are:
+2022-09-08 00:00:07 | INFO | 	zmconv_c0_ocn:	 0.008847213696637005
+2022-09-08 00:00:07 | INFO | 	zmconv_dmpdz:	 -0.00040182799773166205
+2022-09-08 00:00:18 | INFO | Submit SCAM with job id 62601015
+2022-09-08 00:10:20 | INFO | Cost metrics is: 1.03
+2022-09-08 00:10:36 | INFO | Parameter values are:
+2022-09-08 00:10:36 | INFO | 	zmconv_c0_ocn:	 0.005801599545899143
+2022-09-08 00:10:36 | INFO | 	zmconv_dmpdz:	 -0.00040066407838474695
+2022-09-08 00:10:47 | INFO | Submit SCAM with job id 62601213
+2022-09-08 00:15:48 | INFO | Cost metrics is: 1.04
+2022-09-08 00:16:05 | INFO | Parameter values are:
+2022-09-08 00:16:05 | INFO | 	zmconv_c0_ocn:	 0.00818865120080953
+2022-09-08 00:16:05 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 00:16:16 | INFO | Submit SCAM with job id 62601299
+2022-09-08 00:21:18 | INFO | Cost metrics is: 1.04
+2022-09-08 00:21:36 | INFO | Parameter values are:
+2022-09-08 00:21:36 | INFO | 	zmconv_c0_ocn:	 0.009766716114794426
+2022-09-08 00:21:36 | INFO | 	zmconv_dmpdz:	 -0.00040001023106282286
+2022-09-08 00:21:46 | INFO | Submit SCAM with job id 62601398
+2022-09-08 00:26:48 | INFO | Cost metrics is: 1.04
+2022-09-08 00:27:07 | INFO | Parameter values are:
+2022-09-08 00:27:07 | INFO | 	zmconv_c0_ocn:	 0.004522770531935769
+2022-09-08 00:27:07 | INFO | 	zmconv_dmpdz:	 -0.000401635002969293
+2022-09-08 00:27:19 | INFO | Submit SCAM with job id 62601490
+2022-09-08 00:32:21 | INFO | Cost metrics is: 1.04
+2022-09-08 00:32:42 | INFO | Parameter values are:
+2022-09-08 00:32:42 | INFO | 	zmconv_c0_ocn:	 0.007577685302585804
+2022-09-08 00:32:42 | INFO | 	zmconv_dmpdz:	 -0.0004001892959692667
+2022-09-08 00:32:52 | INFO | Submit SCAM with job id 62601607
+2022-09-08 00:42:56 | INFO | Cost metrics is: 1.04
+2022-09-08 00:43:11 | INFO | Parameter values are:
+2022-09-08 00:43:11 | INFO | 	zmconv_c0_ocn:	 0.002248462040169521
+2022-09-08 00:43:11 | INFO | 	zmconv_dmpdz:	 -0.0004022511285622013
+2022-09-08 00:43:21 | INFO | Submit SCAM with job id 62601857
+2022-09-08 00:53:23 | INFO | Cost metrics is: 1.03
+2022-09-08 00:53:42 | INFO | Parameter values are:
+2022-09-08 00:53:42 | INFO | 	zmconv_c0_ocn:	 0.003392406982270319
+2022-09-08 00:53:42 | INFO | 	zmconv_dmpdz:	 -0.00040032999342741145
+2022-09-08 00:53:52 | INFO | Submit SCAM with job id 62602043
+2022-09-08 01:03:54 | INFO | Cost metrics is: 1.04
+2022-09-08 01:04:11 | INFO | Parameter values are:
+2022-09-08 01:04:11 | INFO | 	zmconv_c0_ocn:	 0.009556949710404303
+2022-09-08 01:04:11 | INFO | 	zmconv_dmpdz:	 -0.00040030147103231096
+2022-09-08 01:04:22 | INFO | Submit SCAM with job id 62602225
+2022-09-08 01:14:24 | INFO | Cost metrics is: 1.04
+2022-09-08 01:14:41 | INFO | Parameter values are:
+2022-09-08 01:14:41 | INFO | 	zmconv_c0_ocn:	 0.006849592761410184
+2022-09-08 01:14:41 | INFO | 	zmconv_dmpdz:	 -0.00040149132994784164
+2022-09-08 01:14:52 | INFO | Submit SCAM with job id 62602512
+2022-09-08 01:19:52 | INFO | Cost metrics is: 1.04
+2022-09-08 01:20:10 | INFO | Parameter values are:
+2022-09-08 01:20:10 | INFO | 	zmconv_c0_ocn:	 0.0028074090509249
+2022-09-08 01:20:10 | INFO | 	zmconv_dmpdz:	 -0.0004006621310960278
+2022-09-08 01:20:21 | INFO | Submit SCAM with job id 62602635
+2022-09-08 01:25:21 | INFO | Cost metrics is: 1.04
+2022-09-08 01:25:38 | INFO | Parameter values are:
+2022-09-08 01:25:38 | INFO | 	zmconv_c0_ocn:	 0.004867187781700229
+2022-09-08 01:25:38 | INFO | 	zmconv_dmpdz:	 -0.0004001713084624024
+2022-09-08 01:25:49 | INFO | Submit SCAM with job id 62602817
+2022-09-08 01:30:51 | INFO | Cost metrics is: 1.04
+2022-09-08 01:31:10 | INFO | Parameter values are:
+2022-09-08 01:31:10 | INFO | 	zmconv_c0_ocn:	 0.005160124642145234
+2022-09-08 01:31:10 | INFO | 	zmconv_dmpdz:	 -0.0004013231848472304
+2022-09-08 01:31:23 | INFO | Submit SCAM with job id 62602932
+2022-09-08 01:36:24 | INFO | Cost metrics is: 1.04
+2022-09-08 01:36:43 | INFO | Parameter values are:
+2022-09-08 01:36:43 | INFO | 	zmconv_c0_ocn:	 0.004011687990430391
+2022-09-08 01:36:43 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 01:36:53 | INFO | Submit SCAM with job id 62603054
+2022-09-08 01:46:55 | INFO | Cost metrics is: 1.04
+2022-09-08 01:47:15 | INFO | Parameter values are:
+2022-09-08 01:47:15 | INFO | 	zmconv_c0_ocn:	 0.006683217141212488
+2022-09-08 01:47:15 | INFO | 	zmconv_dmpdz:	 -0.0004014439748917112
+2022-09-08 01:47:26 | INFO | Submit SCAM with job id 62603276
+2022-09-08 01:57:29 | INFO | Cost metrics is: 1.04
+2022-09-08 01:57:46 | INFO | Parameter values are:
+2022-09-08 01:57:46 | INFO | 	zmconv_c0_ocn:	 0.009945037210475013
+2022-09-08 01:57:46 | INFO | 	zmconv_dmpdz:	 -0.00040096792395772187
+2022-09-08 01:57:57 | INFO | Submit SCAM with job id 62603436
+2022-09-08 02:03:00 | INFO | Cost metrics is: 1.05
+2022-09-08 02:03:22 | INFO | Parameter values are:
+2022-09-08 02:03:22 | INFO | 	zmconv_c0_ocn:	 0.007897352552222082
+2022-09-08 02:03:22 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 02:03:33 | INFO | Submit SCAM with job id 62603557
+2022-09-08 02:13:37 | INFO | Cost metrics is: 1.04
+2022-09-08 02:13:55 | INFO | Parameter values are:
+2022-09-08 02:13:55 | INFO | 	zmconv_c0_ocn:	 0.006295875650489101
+2022-09-08 02:13:55 | INFO | 	zmconv_dmpdz:	 -0.0004026115107648053
+2022-09-08 02:14:04 | INFO | Submit SCAM with job id 62603767
+2022-09-08 02:19:05 | INFO | Cost metrics is: 1.04
+2022-09-08 02:19:32 | INFO | Parameter values are:
+2022-09-08 02:19:32 | INFO | 	zmconv_c0_ocn:	 0.008805318482728506
+2022-09-08 02:19:32 | INFO | 	zmconv_dmpdz:	 -0.00040009319180720816
+2022-09-08 02:19:44 | INFO | Submit SCAM with job id 62603834
+2022-09-08 02:29:46 | INFO | Cost metrics is: 1.04
+2022-09-08 02:30:00 | INFO | Parameter values are:
+2022-09-08 02:30:00 | INFO | 	zmconv_c0_ocn:	 0.007167263672602248
+2022-09-08 02:30:00 | INFO | 	zmconv_dmpdz:	 -0.000400831481503579
+2022-09-08 02:30:12 | INFO | Submit SCAM with job id 62603894
+2022-09-08 02:40:13 | INFO | Cost metrics is: 1.04
+2022-09-08 02:40:23 | INFO | Parameter values are:
+2022-09-08 02:40:23 | INFO | 	zmconv_c0_ocn:	 0.009395760373559648
+2022-09-08 02:40:23 | INFO | 	zmconv_dmpdz:	 -0.00040055122874897405
+2022-09-08 02:40:34 | INFO | Submit SCAM with job id 62604171
+2022-09-08 02:50:37 | INFO | Cost metrics is: 1.04
+2022-09-08 02:50:53 | INFO | Parameter values are:
+2022-09-08 02:50:53 | INFO | 	zmconv_c0_ocn:	 0.005341324384410978
+2022-09-08 02:50:53 | INFO | 	zmconv_dmpdz:	 -0.00040145873892258744
+2022-09-08 02:51:05 | INFO | Submit SCAM with job id 62604506
+2022-09-08 03:01:09 | INFO | Cost metrics is: 1.04
+2022-09-08 03:01:26 | INFO | Parameter values are:
+2022-09-08 03:01:26 | INFO | 	zmconv_c0_ocn:	 0.004195161777453648
+2022-09-08 03:01:26 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 03:01:38 | INFO | Submit SCAM with job id 62604586
+2022-09-08 03:11:41 | INFO | Cost metrics is: 1.04
+2022-09-08 03:11:58 | INFO | Parameter values are:
+2022-09-08 03:11:58 | INFO | 	zmconv_c0_ocn:	 0.005620703414394661
+2022-09-08 03:11:58 | INFO | 	zmconv_dmpdz:	 -0.0004030708433706735
+2022-09-08 03:12:10 | INFO | Submit SCAM with job id 62604817
+2022-09-08 03:22:11 | INFO | Cost metrics is: 1.04
+2022-09-08 03:22:34 | INFO | Parameter values are:
+2022-09-08 03:22:34 | INFO | 	zmconv_c0_ocn:	 0.009149388319600302
+2022-09-08 03:22:34 | INFO | 	zmconv_dmpdz:	 -0.0004006726855990524
+2022-09-08 03:22:44 | INFO | Submit SCAM with job id 62604914
+2022-09-08 03:32:48 | INFO | Cost metrics is: 1.04
+2022-09-08 03:33:00 | INFO | Parameter values are:
+2022-09-08 03:33:00 | INFO | 	zmconv_c0_ocn:	 0.008733088243664186
+2022-09-08 03:33:00 | INFO | 	zmconv_dmpdz:	 -0.00040009973476684633
+2022-09-08 03:33:10 | INFO | Submit SCAM with job id 62604983
+2022-09-08 03:43:13 | INFO | Cost metrics is: 1.04
+2022-09-08 03:43:28 | INFO | Parameter values are:
+2022-09-08 03:43:28 | INFO | 	zmconv_c0_ocn:	 0.0025795540906409353
+2022-09-08 03:43:28 | INFO | 	zmconv_dmpdz:	 -0.00040051108598927797
+2022-09-08 03:43:41 | INFO | Submit SCAM with job id 62605062
+2022-09-08 03:48:44 | INFO | Cost metrics is: 1.04
+2022-09-08 03:48:56 | INFO | Parameter values are:
+2022-09-08 03:48:56 | INFO | 	zmconv_c0_ocn:	 0.00613054178111287
+2022-09-08 03:48:56 | INFO | 	zmconv_dmpdz:	 -0.00040024886738115276
+2022-09-08 03:49:06 | INFO | Submit SCAM with job id 62605143
+2022-09-08 03:54:08 | INFO | Cost metrics is: 1.04
+2022-09-08 03:54:28 | INFO | Parameter values are:
+2022-09-08 03:54:28 | INFO | 	zmconv_c0_ocn:	 0.009248833457096508
+2022-09-08 03:54:28 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 03:54:38 | INFO | Submit SCAM with job id 62605196
+2022-09-08 04:04:38 | INFO | Cost metrics is: 1.04
+2022-09-08 04:04:52 | INFO | Parameter values are:
+2022-09-08 04:04:52 | INFO | 	zmconv_c0_ocn:	 0.007397213304854916
+2022-09-08 04:04:52 | INFO | 	zmconv_dmpdz:	 -0.0004008197842606491
+2022-09-08 04:05:02 | INFO | Submit SCAM with job id 62605629
+2022-09-08 04:15:04 | INFO | Cost metrics is: 1.04
+2022-09-08 04:15:21 | INFO | Parameter values are:
+2022-09-08 04:15:21 | INFO | 	zmconv_c0_ocn:	 0.006437767875960979
+2022-09-08 04:15:21 | INFO | 	zmconv_dmpdz:	 -0.00040032017721605164
+2022-09-08 04:15:31 | INFO | Submit SCAM with job id 62606185
+2022-09-08 04:25:37 | INFO | Cost metrics is: 1.04
+2022-09-08 04:25:50 | INFO | Parameter values are:
+2022-09-08 04:25:50 | INFO | 	zmconv_c0_ocn:	 0.00613236457690774
+2022-09-08 04:25:50 | INFO | 	zmconv_dmpdz:	 -0.0004739994485507131
+2022-09-08 04:26:02 | INFO | Submit SCAM with job id 62606608
+2022-09-08 04:36:04 | INFO | Cost metrics is: 1.45
+2022-09-08 04:36:13 | INFO | Parameter values are:
+2022-09-08 04:36:13 | INFO | 	zmconv_c0_ocn:	 0.007266673130439481
+2022-09-08 04:36:13 | INFO | 	zmconv_dmpdz:	 -0.0004002003863154258
+2022-09-08 04:36:25 | INFO | Submit SCAM with job id 62606855
+2022-09-08 04:46:29 | INFO | Cost metrics is: 1.04
+2022-09-08 04:46:39 | INFO | Parameter values are:
+2022-09-08 04:46:39 | INFO | 	zmconv_c0_ocn:	 0.007713402593408758
+2022-09-08 04:46:39 | INFO | 	zmconv_dmpdz:	 -0.00046083501721967815
+2022-09-08 04:46:52 | INFO | Submit SCAM with job id 62607070
+2022-09-08 04:56:57 | INFO | Cost metrics is: 1.39
+2022-09-08 04:57:05 | INFO | Parameter values are:
+2022-09-08 04:57:05 | INFO | 	zmconv_c0_ocn:	 0.008056762567396545
+2022-09-08 04:57:05 | INFO | 	zmconv_dmpdz:	 -0.00040015056441805564
+2022-09-08 04:57:16 | INFO | Submit SCAM with job id 62607236
+2022-09-08 05:07:18 | INFO | Cost metrics is: 1.04
+2022-09-08 05:07:27 | INFO | Parameter values are:
+2022-09-08 05:07:27 | INFO | 	zmconv_c0_ocn:	 0.007760448965560079
+2022-09-08 05:07:27 | INFO | 	zmconv_dmpdz:	 -0.000400695492492745
+2022-09-08 05:07:37 | INFO | Submit SCAM with job id 62607321
+2022-09-08 05:17:41 | INFO | Cost metrics is: 1.04
+2022-09-08 05:17:54 | INFO | Parameter values are:
+2022-09-08 05:17:54 | INFO | 	zmconv_c0_ocn:	 0.006523407244866279
+2022-09-08 05:17:54 | INFO | 	zmconv_dmpdz:	 -0.00040008407531831093
+2022-09-08 05:18:06 | INFO | Submit SCAM with job id 62607528
+2022-09-08 05:28:07 | INFO | Cost metrics is: 1.04
+2022-09-08 05:28:22 | INFO | Parameter values are:
+2022-09-08 05:28:22 | INFO | 	zmconv_c0_ocn:	 0.0022416262937155745
+2022-09-08 05:28:22 | INFO | 	zmconv_dmpdz:	 -0.00046315929725130407
+2022-09-08 05:28:34 | INFO | Submit SCAM with job id 62607913
+2022-09-08 05:38:36 | INFO | Cost metrics is: 1.40
+2022-09-08 05:38:50 | INFO | Parameter values are:
+2022-09-08 05:38:50 | INFO | 	zmconv_c0_ocn:	 0.0016977496719769042
+2022-09-08 05:38:50 | INFO | 	zmconv_dmpdz:	 -0.0004000907785737415
+2022-09-08 05:38:59 | INFO | Submit SCAM with job id 62608154
+2022-09-08 05:49:01 | INFO | Cost metrics is: 1.04
+2022-09-08 05:49:12 | INFO | Parameter values are:
+2022-09-08 05:49:12 | INFO | 	zmconv_c0_ocn:	 0.0018574175892631286
+2022-09-08 05:49:12 | INFO | 	zmconv_dmpdz:	 -0.0004053829629574339
+2022-09-08 05:49:25 | INFO | Submit SCAM with job id 62608357
+2022-09-08 05:54:25 | INFO | Cost metrics is: 1.05
+2022-09-08 05:54:43 | INFO | Parameter values are:
+2022-09-08 05:54:43 | INFO | 	zmconv_c0_ocn:	 0.0019985995731485583
+2022-09-08 05:54:43 | INFO | 	zmconv_dmpdz:	 -0.00040037716982865347
+2022-09-08 05:54:53 | INFO | Submit SCAM with job id 62608473
+2022-09-08 05:59:55 | INFO | Cost metrics is: 1.04
+2022-09-08 06:00:11 | INFO | Parameter values are:
+2022-09-08 06:00:11 | INFO | 	zmconv_c0_ocn:	 0.0015619047958350444
+2022-09-08 06:00:11 | INFO | 	zmconv_dmpdz:	 -0.00040388355144893486
+2022-09-08 06:00:24 | INFO | Submit SCAM with job id 62608559
+2022-09-08 06:05:26 | INFO | Cost metrics is: 1.04
+2022-09-08 06:05:40 | INFO | Parameter values are:
+2022-09-08 06:05:40 | INFO | 	zmconv_c0_ocn:	 0.00123796222511924
+2022-09-08 06:05:40 | INFO | 	zmconv_dmpdz:	 -0.00040473046650396595
+2022-09-08 06:05:49 | INFO | Submit SCAM with job id 62608642
+2022-09-08 06:10:51 | INFO | Cost metrics is: 1.05
+2022-09-08 06:11:02 | INFO | Parameter values are:
+2022-09-08 06:11:02 | INFO | 	zmconv_c0_ocn:	 0.001
+2022-09-08 06:11:02 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 06:11:12 | INFO | Submit SCAM with job id 62608780
+2022-09-08 06:16:14 | INFO | Cost metrics is: 1.04
+2022-09-08 06:16:29 | INFO | Parameter values are:
+2022-09-08 06:16:29 | INFO | 	zmconv_c0_ocn:	 0.0013912651054248726
+2022-09-08 06:16:29 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 06:16:40 | INFO | Submit SCAM with job id 62608904
+2022-09-08 06:26:45 | INFO | Cost metrics is: 1.04
+2022-09-08 06:26:56 | INFO | Parameter values are:
+2022-09-08 06:26:56 | INFO | 	zmconv_c0_ocn:	 0.0010836332350524283
+2022-09-08 06:26:56 | INFO | 	zmconv_dmpdz:	 -0.00040164215462680215
+2022-09-08 06:27:08 | INFO | Submit SCAM with job id 62609249
+2022-09-08 06:37:09 | INFO | Cost metrics is: 1.03
+2022-09-08 06:37:23 | INFO | Parameter values are:
+2022-09-08 06:37:23 | INFO | 	zmconv_c0_ocn:	 0.0013114687992646476
+2022-09-08 06:37:23 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 06:37:35 | INFO | Submit SCAM with job id 62609638
+2022-09-08 06:47:39 | INFO | Cost metrics is: 1.04
+2022-09-08 06:47:59 | INFO | Parameter values are:
+2022-09-08 06:47:59 | INFO | 	zmconv_c0_ocn:	 0.001783664361767485
+2022-09-08 06:47:59 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 06:49:26 | INFO | Submit SCAM with job id 62610343
+2022-09-08 06:59:30 | INFO | Cost metrics is: 1.04
+2022-09-08 06:59:44 | INFO | Parameter values are:
+2022-09-08 06:59:44 | INFO | 	zmconv_c0_ocn:	 0.002080694304780387
+2022-09-08 06:59:44 | INFO | 	zmconv_dmpdz:	 -0.00040247069366559625
+2022-09-08 06:59:54 | INFO | Submit SCAM with job id 62610926
+2022-09-08 07:09:57 | INFO | Cost metrics is: 1.04
+2022-09-08 07:10:16 | INFO | Parameter values are:
+2022-09-08 07:10:16 | INFO | 	zmconv_c0_ocn:	 0.0011588865013746426
+2022-09-08 07:10:16 | INFO | 	zmconv_dmpdz:	 -0.0004
+2022-09-08 07:10:27 | INFO | Submit SCAM with job id 62611393

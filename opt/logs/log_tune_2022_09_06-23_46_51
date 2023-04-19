@@ -1,0 +1,7 @@
+2022-09-06 23:46:51 | INFO | Parameter bounds are:
+2022-09-06 23:46:51 | INFO | 	zmconv_c0_ocn:	(0.001, 0.01)
+2022-09-06 23:46:51 | INFO | 	zmconv_dmpdz:	(-0.0009, -0.0004)
+2022-09-06 23:46:51 | INFO | Parameter values are:
+2022-09-06 23:46:51 | INFO | 	zmconv_c0_ocn:	 0.007941885789400714
+2022-09-06 23:46:51 | INFO | 	zmconv_dmpdz:	 -0.0008896240253202992
+2022-09-06 23:47:01 | INFO | Submit SCAM with job id 62552086
