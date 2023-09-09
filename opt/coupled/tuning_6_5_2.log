@@ -1,0 +1,3 @@
+2023-06-05 01:51:04.380 | DEBUG    | __main__:run_model:183 - Submit E3SM with job id 338127
+2023-06-05 09:36:00.275 | INFO     | __main__:run_model:192 -  clubb_c1=2.01932e+00 clubb_gamma_coef=1.35371e-01 clubb_c_k10=7.20375e-01 zmconv_tau=1.93598e+03 zmconv_dmpdz=-3.16759e-04 zmconv_micro_dcs=1.32744e-04 nucleate_ice_subgrid=1.19204e+00 p3_nc_autocon_expon=-1.25887e+00 p3_qc_accret_expon=1.10663e+00 zmconv_auto_fac=5.75546e+00 zmconv_accr_fac=1.61615e+00 zmconv_ke=4.07418e-06 cldfrc_dp1=3.01343e-02 p3_embryonic_rain_size=1.81182e-05 effgw_oro=3.43033e-01 : score=5.431
+2023-06-05 09:36:18.945 | DEBUG    | __main__:run_model:183 - Submit E3SM with job id 338263

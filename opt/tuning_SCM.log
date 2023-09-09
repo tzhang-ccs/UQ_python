@@ -1,0 +1,400 @@
+2023-05-17 13:55:09.204 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330466
+2023-05-17 14:00:10.715 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.65540e+02 clubb_c1=3.93362e+00 clubb_gamma_coef=4.45297e-01 zmconv_tau=3.19848e+03 zmconv_dmpdz=-1.03288e-03 : score=0.226
+2023-05-17 14:00:15.992 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330467
+2023-05-17 14:05:16.170 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.58680e+02 clubb_c1=2.18339e+00 clubb_gamma_coef=2.50354e-01 zmconv_tau=3.83078e+03 zmconv_dmpdz=-4.91052e-04 : score=0.211
+2023-05-17 14:05:20.502 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330468
+2023-05-17 14:10:20.707 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.28646e+03 clubb_c1=1.12682e+00 clubb_gamma_coef=2.11729e-01 zmconv_tau=4.32431e+03 zmconv_dmpdz=-1.35911e-03 : score=0.251
+2023-05-17 14:10:25.070 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330469
+2023-05-17 14:15:25.351 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.35277e+03 clubb_c1=1.49878e+00 clubb_gamma_coef=3.93200e-01 zmconv_tau=4.47707e+03 zmconv_dmpdz=-1.24939e-03 : score=0.313
+2023-05-17 14:15:33.259 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330470
+2023-05-17 14:20:33.521 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.21339e+02 clubb_c1=4.82852e+00 clubb_gamma_coef=3.19432e-01 zmconv_tau=2.63404e+03 zmconv_dmpdz=-7.28531e-04 : score=0.254
+2023-05-17 14:20:44.003 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330471
+2023-05-17 14:25:44.387 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96377e+02 clubb_c1=4.08861e+00 clubb_gamma_coef=2.79493e-01 zmconv_tau=2.11662e+03 zmconv_dmpdz=-1.55016e-03 : score=0.326
+2023-05-17 14:25:56.056 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330474
+2023-05-17 14:30:56.621 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.66972e+02 clubb_c1=3.20225e+00 clubb_gamma_coef=3.27460e-01 zmconv_tau=3.89503e+03 zmconv_dmpdz=-4.31917e-04 : score=0.187
+2023-05-17 14:31:07.738 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330477
+2023-05-17 14:36:08.002 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.25326e+02 clubb_c1=4.61394e+00 clubb_gamma_coef=1.50964e-01 zmconv_tau=1.80263e+03 zmconv_dmpdz=-3.09376e-04 : score=0.123
+2023-05-17 14:36:12.630 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330478
+2023-05-17 14:41:12.942 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.26623e+02 clubb_c1=1.97068e+00 clubb_gamma_coef=1.62938e-01 zmconv_tau=2.81019e+03 zmconv_dmpdz=-1.14735e-03 : score=0.195
+2023-05-17 14:41:25.531 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330479
+2023-05-17 14:46:25.769 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.98337e+02 clubb_c1=2.30640e+00 clubb_gamma_coef=3.77701e-01 zmconv_tau=4.61519e+03 zmconv_dmpdz=-1.20458e-04 : score=0.080
+2023-05-17 14:46:35.747 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330480
+2023-05-17 14:51:35.987 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.16785e+03 clubb_c1=1.63218e+00 clubb_gamma_coef=1.15806e-01 zmconv_tau=2.98985e+03 zmconv_dmpdz=-6.59772e-04 : score=0.225
+2023-05-17 14:51:42.922 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330482
+2023-05-17 14:56:43.404 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.78292e+02 clubb_c1=2.48012e+00 clubb_gamma_coef=4.97327e-01 zmconv_tau=2.23344e+03 zmconv_dmpdz=-1.95105e-03 : score=0.271
+2023-05-17 14:56:53.358 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330485
+2023-05-17 15:01:53.654 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.11871e+03 clubb_c1=2.81420e+00 clubb_gamma_coef=4.34846e-01 zmconv_tau=4.70663e+03 zmconv_dmpdz=-1.44156e-03 : score=0.254
+2023-05-17 15:02:03.490 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330486
+2023-05-17 15:07:03.664 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.31737e+03 clubb_c1=1.35933e+00 clubb_gamma_coef=4.64062e-01 zmconv_tau=2.55466e+03 zmconv_dmpdz=-1.11244e-03 : score=0.234
+2023-05-17 15:07:09.418 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330489
+2023-05-17 15:12:09.617 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.00980e+03 clubb_c1=4.26099e+00 clubb_gamma_coef=4.14137e-01 zmconv_tau=4.85701e+03 zmconv_dmpdz=-9.03175e-04 : score=0.241
+2023-05-17 15:12:16.178 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330495
+2023-05-17 15:17:16.530 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.22656e+03 clubb_c1=3.59103e+00 clubb_gamma_coef=2.38298e-01 zmconv_tau=3.54462e+03 zmconv_dmpdz=-8.07029e-04 : score=0.168
+2023-05-17 15:17:26.673 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330496
+2023-05-17 15:22:27.051 | INFO     | __main__:run_model:130 -  ice_sed_ai=3.87613e+02 clubb_c1=3.66298e+00 clubb_gamma_coef=2.94897e-01 zmconv_tau=3.65483e+03 zmconv_dmpdz=-1.70110e-03 : score=0.308
+2023-05-17 15:22:36.657 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330497
+2023-05-17 15:27:37.041 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.06771e+03 clubb_c1=4.59372e+00 clubb_gamma_coef=1.82150e-01 zmconv_tau=4.16880e+03 zmconv_dmpdz=-2.63532e-04 : score=0.167
+2023-05-17 15:27:45.947 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330498
+2023-05-17 15:32:46.607 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.14156e+02 clubb_c1=2.74389e+00 clubb_gamma_coef=3.45916e-01 zmconv_tau=2.30856e+03 zmconv_dmpdz=-1.78334e-03 : score=0.358
+2023-05-17 15:33:03.288 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330502
+2023-05-17 15:38:03.463 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.31482e+02 clubb_c1=3.07713e+00 clubb_gamma_coef=1.24192e-01 zmconv_tau=3.35086e+03 zmconv_dmpdz=-1.81942e-03 : score=0.194
+2023-05-17 15:38:08.794 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330503
+2023-05-17 15:43:09.201 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.49680e+02 clubb_c1=1.04914e+00 clubb_gamma_coef=4.01574e-01 zmconv_tau=4.89682e+03 zmconv_dmpdz=-1.26065e-04 : score=0.136
+2023-05-17 15:43:22.178 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330506
+2023-05-17 15:48:22.543 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.50752e+02 clubb_c1=3.87719e+00 clubb_gamma_coef=4.06373e-01 zmconv_tau=4.42126e+03 zmconv_dmpdz=-1.18148e-04 : score=0.055
+2023-05-17 15:48:35.070 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330507
+2023-05-17 15:53:35.442 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.49969e+02 clubb_c1=1.20225e+00 clubb_gamma_coef=3.79161e-01 zmconv_tau=3.62453e+03 zmconv_dmpdz=-1.02784e-04 : score=0.202
+2023-05-17 15:53:50.769 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330509
+2023-05-17 15:58:51.145 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.03084e+02 clubb_c1=1.49686e+00 clubb_gamma_coef=3.93838e-01 zmconv_tau=4.91555e+03 zmconv_dmpdz=-2.10524e-04 : score=0.310
+2023-05-17 15:59:02.353 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330510
+2023-05-17 16:04:02.933 | INFO     | __main__:run_model:130 -  ice_sed_ai=3.95941e+02 clubb_c1=1.06286e+00 clubb_gamma_coef=4.06072e-01 zmconv_tau=2.21794e+03 zmconv_dmpdz=-1.57470e-04 : score=0.251
+2023-05-17 16:04:16.962 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330512
+2023-05-17 16:09:17.368 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.00103e+02 clubb_c1=1.43224e+00 clubb_gamma_coef=3.88338e-01 zmconv_tau=2.31001e+03 zmconv_dmpdz=-1.37804e-04 : score=0.159
+2023-05-17 16:09:27.785 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330517
+2023-05-17 16:14:28.284 | INFO     | __main__:run_model:130 -  ice_sed_ai=3.81567e+02 clubb_c1=3.38902e+00 clubb_gamma_coef=4.08350e-01 zmconv_tau=4.78595e+03 zmconv_dmpdz=-3.61703e-04 : score=0.159
+2023-05-17 16:14:37.502 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330518
+2023-05-17 16:19:37.965 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.92997e+02 clubb_c1=3.29330e+00 clubb_gamma_coef=4.15388e-01 zmconv_tau=3.96965e+03 zmconv_dmpdz=-1.41654e-04 : score=0.175
+2023-05-17 16:19:46.383 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330521
+2023-05-17 16:24:49.364 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.26041e+02 clubb_c1=4.96254e+00 clubb_gamma_coef=3.89989e-01 zmconv_tau=1.94475e+03 zmconv_dmpdz=-1.48574e-04 : score=0.127
+2023-05-17 16:25:35.232 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330523
+2023-05-17 16:30:35.578 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.46662e+02 clubb_c1=1.58316e+00 clubb_gamma_coef=3.87158e-01 zmconv_tau=4.54499e+03 zmconv_dmpdz=-2.00289e-04 : score=0.217
+2023-05-17 16:30:46.120 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330524
+2023-05-17 16:35:46.383 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.09421e+03 clubb_c1=3.62977e+00 clubb_gamma_coef=1.53022e-01 zmconv_tau=4.87880e+03 zmconv_dmpdz=-3.53172e-04 : score=0.167
+2023-05-17 16:35:54.880 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330526
+2023-05-17 16:40:55.156 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.02748e+03 clubb_c1=3.63553e+00 clubb_gamma_coef=3.55335e-01 zmconv_tau=3.91396e+03 zmconv_dmpdz=-1.40303e-04 : score=0.156
+2023-05-17 16:41:04.270 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330546
+2023-05-17 16:46:04.583 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.81908e+02 clubb_c1=3.87455e+00 clubb_gamma_coef=3.02954e-01 zmconv_tau=4.19950e+03 zmconv_dmpdz=-1.83323e-04 : score=0.116
+2023-05-17 16:46:13.957 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330547
+2023-05-17 16:51:14.292 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.02080e+03 clubb_c1=3.47210e+00 clubb_gamma_coef=4.42722e-01 zmconv_tau=3.66101e+03 zmconv_dmpdz=-5.08887e-04 : score=0.276
+2023-05-17 16:51:23.164 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330548
+2023-05-17 16:56:23.514 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.22374e+03 clubb_c1=3.35650e+00 clubb_gamma_coef=4.65000e-01 zmconv_tau=4.66340e+03 zmconv_dmpdz=-3.96267e-04 : score=0.198
+2023-05-17 16:56:32.026 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330550
+2023-05-17 17:01:32.307 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.62932e+02 clubb_c1=4.39617e+00 clubb_gamma_coef=4.79735e-01 zmconv_tau=4.33182e+03 zmconv_dmpdz=-3.00788e-04 : score=0.198
+2023-05-17 17:01:41.364 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330551
+2023-05-17 17:06:41.637 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.80206e+02 clubb_c1=3.36764e+00 clubb_gamma_coef=4.13646e-01 zmconv_tau=4.89295e+03 zmconv_dmpdz=-5.22553e-04 : score=0.282
+2023-05-17 17:06:57.125 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330553
+2023-05-17 17:11:57.557 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.14007e+03 clubb_c1=3.78462e+00 clubb_gamma_coef=4.93299e-01 zmconv_tau=4.73116e+03 zmconv_dmpdz=-2.13339e-04 : score=0.177
+2023-05-17 17:12:13.038 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330554
+2023-05-17 17:17:13.357 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.96850e+02 clubb_c1=3.14673e+00 clubb_gamma_coef=4.83275e-01 zmconv_tau=4.60995e+03 zmconv_dmpdz=-5.39179e-04 : score=0.158
+2023-05-17 17:17:29.640 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330555
+2023-05-17 17:22:30.025 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.05779e+02 clubb_c1=3.16804e+00 clubb_gamma_coef=4.29541e-01 zmconv_tau=3.84010e+03 zmconv_dmpdz=-1.27132e-04 : score=0.039
+2023-05-17 17:22:45.178 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330557
+2023-05-17 17:27:45.508 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.05571e+02 clubb_c1=2.49538e+00 clubb_gamma_coef=2.03862e-01 zmconv_tau=4.58851e+03 zmconv_dmpdz=-1.08701e-04 : score=0.146
+2023-05-17 17:27:57.984 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330560
+2023-05-17 17:32:58.355 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.96216e+02 clubb_c1=3.65506e+00 clubb_gamma_coef=4.20034e-01 zmconv_tau=4.30324e+03 zmconv_dmpdz=-1.33530e-04 : score=0.149
+2023-05-17 17:33:13.347 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330561
+2023-05-17 17:38:13.647 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.23143e+02 clubb_c1=3.33822e+00 clubb_gamma_coef=1.73601e-01 zmconv_tau=3.47044e+03 zmconv_dmpdz=-1.45175e-04 : score=0.161
+2023-05-17 17:38:27.070 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330562
+2023-05-17 17:43:27.343 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.43401e+02 clubb_c1=3.12108e+00 clubb_gamma_coef=4.31504e-01 zmconv_tau=3.91368e+03 zmconv_dmpdz=-1.14477e-04 : score=0.135
+2023-05-17 17:43:37.428 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330564
+2023-05-17 17:48:37.726 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.55242e+02 clubb_c1=2.45364e+00 clubb_gamma_coef=4.84265e-01 zmconv_tau=2.76818e+03 zmconv_dmpdz=-1.91268e-04 : score=0.190
+2023-05-17 17:48:48.786 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330566
+2023-05-17 17:53:49.037 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.92054e+02 clubb_c1=3.05082e+00 clubb_gamma_coef=2.93644e-01 zmconv_tau=4.23681e+03 zmconv_dmpdz=-1.01181e-04 : score=0.129
+2023-05-17 17:53:59.852 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330570
+2023-05-17 17:59:00.116 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.12164e+02 clubb_c1=3.23986e+00 clubb_gamma_coef=4.54981e-01 zmconv_tau=3.71497e+03 zmconv_dmpdz=-1.59378e-04 : score=0.192
+2023-05-17 17:59:10.795 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330571
+2023-05-17 18:04:11.062 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.24869e+02 clubb_c1=3.22458e+00 clubb_gamma_coef=4.24309e-01 zmconv_tau=3.25514e+03 zmconv_dmpdz=-3.01640e-04 : score=0.258
+2023-05-17 18:04:21.643 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330573
+2023-05-17 18:09:22.115 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.48935e+02 clubb_c1=2.69037e+00 clubb_gamma_coef=4.36652e-01 zmconv_tau=3.48495e+03 zmconv_dmpdz=-2.91455e-04 : score=0.243
+2023-05-17 18:09:32.953 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330575
+2023-05-17 18:14:33.235 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.45298e+02 clubb_c1=2.76235e+00 clubb_gamma_coef=3.00710e-01 zmconv_tau=3.80531e+03 zmconv_dmpdz=-1.96353e-04 : score=0.251
+2023-05-17 18:14:43.760 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330576
+2023-05-17 18:19:44.067 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.56714e+02 clubb_c1=4.01846e+00 clubb_gamma_coef=4.46318e-01 zmconv_tau=3.81873e+03 zmconv_dmpdz=-5.52262e-04 : score=0.243
+2023-05-17 18:19:54.568 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330577
+2023-05-17 18:24:54.873 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.04396e+02 clubb_c1=3.06275e+00 clubb_gamma_coef=3.74603e-01 zmconv_tau=3.98493e+03 zmconv_dmpdz=-2.65640e-04 : score=0.264
+2023-05-17 18:25:05.676 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330578
+2023-05-17 18:30:06.103 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.98491e+02 clubb_c1=4.01346e+00 clubb_gamma_coef=4.09060e-01 zmconv_tau=3.42768e+03 zmconv_dmpdz=-1.01756e-04 : score=0.091
+2023-05-17 18:30:16.675 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330581
+2023-05-17 18:35:16.992 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.00288e+02 clubb_c1=2.85451e+00 clubb_gamma_coef=4.18284e-01 zmconv_tau=4.23135e+03 zmconv_dmpdz=-3.47941e-04 : score=0.182
+2023-05-17 18:35:27.928 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330582
+2023-05-17 18:40:28.240 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.63375e+02 clubb_c1=2.39600e+00 clubb_gamma_coef=4.78151e-01 zmconv_tau=3.63990e+03 zmconv_dmpdz=-4.80731e-04 : score=0.204
+2023-05-17 18:40:41.116 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330583
+2023-05-17 18:45:41.429 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.33314e+02 clubb_c1=3.14713e+00 clubb_gamma_coef=4.06056e-01 zmconv_tau=4.19469e+03 zmconv_dmpdz=-1.91694e-04 : score=0.179
+2023-05-17 18:45:52.876 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330584
+2023-05-17 18:50:53.209 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.25902e+02 clubb_c1=2.70972e+00 clubb_gamma_coef=4.24175e-01 zmconv_tau=4.29327e+03 zmconv_dmpdz=-2.11295e-04 : score=0.203
+2023-05-17 18:51:04.688 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330585
+2023-05-17 18:56:05.041 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.62353e+02 clubb_c1=3.20428e+00 clubb_gamma_coef=3.85518e-01 zmconv_tau=3.73840e+03 zmconv_dmpdz=-5.32733e-04 : score=0.204
+2023-05-17 18:56:15.316 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330586
+2023-05-17 19:01:15.687 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95229e+02 clubb_c1=3.47870e+00 clubb_gamma_coef=3.61075e-01 zmconv_tau=4.32281e+03 zmconv_dmpdz=-3.31618e-04 : score=0.269
+2023-05-17 19:01:27.673 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330618
+2023-05-17 19:06:28.101 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.21094e+02 clubb_c1=4.04402e+00 clubb_gamma_coef=4.27068e-01 zmconv_tau=3.89375e+03 zmconv_dmpdz=-2.63931e-04 : score=0.257
+2023-05-17 19:06:40.249 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330619
+2023-05-17 19:11:40.823 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.24103e+02 clubb_c1=2.84035e+00 clubb_gamma_coef=4.06724e-01 zmconv_tau=3.79086e+03 zmconv_dmpdz=-1.46131e-04 : score=0.323
+2023-05-17 19:11:52.948 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330621
+2023-05-17 19:16:53.359 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.79373e+02 clubb_c1=3.53614e+00 clubb_gamma_coef=4.18186e-01 zmconv_tau=3.84979e+03 zmconv_dmpdz=-1.52991e-04 : score=0.198
+2023-05-17 19:17:04.611 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330622
+2023-05-17 19:22:04.949 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.77486e+02 clubb_c1=2.75701e+00 clubb_gamma_coef=4.00266e-01 zmconv_tau=3.57125e+03 zmconv_dmpdz=-1.86645e-04 : score=0.173
+2023-05-17 19:22:17.211 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330624
+2023-05-17 19:27:17.700 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.58971e+02 clubb_c1=3.00895e+00 clubb_gamma_coef=4.27662e-01 zmconv_tau=3.84692e+03 zmconv_dmpdz=-1.34842e-04 : score=0.183
+2023-05-17 19:27:28.880 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330626
+2023-05-17 19:32:29.272 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.25624e+02 clubb_c1=3.17216e+00 clubb_gamma_coef=4.40725e-01 zmconv_tau=3.73916e+03 zmconv_dmpdz=-1.93998e-04 : score=0.129
+2023-05-17 19:32:40.160 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330627
+2023-05-17 19:37:40.578 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.49137e+02 clubb_c1=3.41448e+00 clubb_gamma_coef=4.29374e-01 zmconv_tau=3.74381e+03 zmconv_dmpdz=-1.09019e-04 : score=0.184
+2023-05-17 19:37:51.987 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330628
+2023-05-17 19:42:52.578 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.89686e+02 clubb_c1=3.27891e+00 clubb_gamma_coef=4.18785e-01 zmconv_tau=3.87631e+03 zmconv_dmpdz=-3.13414e-04 : score=0.237
+2023-05-17 19:43:03.217 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330629
+2023-05-17 19:48:03.624 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.24982e+02 clubb_c1=3.44486e+00 clubb_gamma_coef=4.30957e-01 zmconv_tau=4.02101e+03 zmconv_dmpdz=-3.28019e-04 : score=0.267
+2023-05-17 19:48:14.709 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330630
+2023-05-17 19:53:15.320 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.76556e+02 clubb_c1=3.65318e+00 clubb_gamma_coef=4.35604e-01 zmconv_tau=3.93764e+03 zmconv_dmpdz=-2.55942e-04 : score=0.259
+2023-05-17 19:53:26.570 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330631
+2023-05-17 19:58:26.802 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.56563e+02 clubb_c1=3.58886e+00 clubb_gamma_coef=4.14669e-01 zmconv_tau=3.90914e+03 zmconv_dmpdz=-1.13955e-04 : score=0.116
+2023-05-17 19:58:38.112 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330632
+2023-05-17 20:03:38.375 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.66046e+02 clubb_c1=3.27191e+00 clubb_gamma_coef=4.26384e-01 zmconv_tau=3.76524e+03 zmconv_dmpdz=-1.05867e-04 : score=0.019
+2023-05-17 20:03:48.876 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330633
+2023-05-17 20:08:49.173 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.78616e+02 clubb_c1=3.27577e+00 clubb_gamma_coef=4.27540e-01 zmconv_tau=3.97659e+03 zmconv_dmpdz=-1.24297e-04 : score=0.066
+2023-05-17 20:08:59.794 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330634
+2023-05-17 20:14:00.636 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.60088e+02 clubb_c1=3.19740e+00 clubb_gamma_coef=4.34898e-01 zmconv_tau=3.97040e+03 zmconv_dmpdz=-1.49293e-04 : score=0.059
+2023-05-17 20:14:11.475 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330635
+2023-05-17 20:19:11.667 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.97039e+02 clubb_c1=3.14022e+00 clubb_gamma_coef=4.33633e-01 zmconv_tau=3.86296e+03 zmconv_dmpdz=-1.17423e-04 : score=0.196
+2023-05-17 20:19:21.881 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330636
+2023-05-17 20:24:22.097 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.17557e+02 clubb_c1=3.18167e+00 clubb_gamma_coef=4.47301e-01 zmconv_tau=3.98050e+03 zmconv_dmpdz=-1.11373e-04 : score=0.194
+2023-05-17 20:24:33.167 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330637
+2023-05-17 20:29:33.394 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.78056e+02 clubb_c1=3.16496e+00 clubb_gamma_coef=4.28885e-01 zmconv_tau=3.77534e+03 zmconv_dmpdz=-1.15159e-04 : score=0.077
+2023-05-17 20:29:45.116 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330638
+2023-05-17 20:34:45.321 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.59291e+02 clubb_c1=3.23779e+00 clubb_gamma_coef=4.14543e-01 zmconv_tau=3.85546e+03 zmconv_dmpdz=-1.66649e-04 : score=0.218
+2023-05-17 20:34:55.763 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330639
+2023-05-17 20:39:56.039 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.51530e+02 clubb_c1=3.20916e+00 clubb_gamma_coef=4.19305e-01 zmconv_tau=3.93105e+03 zmconv_dmpdz=-1.37600e-04 : score=0.189
+2023-05-17 20:40:07.640 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330640
+2023-05-17 20:45:07.854 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.68580e+02 clubb_c1=3.14153e+00 clubb_gamma_coef=4.24108e-01 zmconv_tau=3.70568e+03 zmconv_dmpdz=-1.43590e-04 : score=0.132
+2023-05-17 20:45:17.800 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330641
+2023-05-17 20:50:17.994 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.97952e+02 clubb_c1=3.19579e+00 clubb_gamma_coef=4.31411e-01 zmconv_tau=3.92048e+03 zmconv_dmpdz=-1.33905e-04 : score=0.170
+2023-05-17 20:50:28.742 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330642
+2023-05-17 20:55:29.024 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.04859e+02 clubb_c1=3.23832e+00 clubb_gamma_coef=4.37154e-01 zmconv_tau=3.76728e+03 zmconv_dmpdz=-1.44405e-04 : score=0.131
+2023-05-17 20:55:39.209 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330643
+2023-05-17 21:00:39.478 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.80865e+02 clubb_c1=3.29697e+00 clubb_gamma_coef=4.13405e-01 zmconv_tau=3.70877e+03 zmconv_dmpdz=-2.05834e-04 : score=0.214
+2023-05-17 21:00:50.724 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330644
+2023-05-17 21:05:50.959 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.06457e+02 clubb_c1=3.32766e+00 clubb_gamma_coef=4.25427e-01 zmconv_tau=3.93868e+03 zmconv_dmpdz=-1.01664e-04 : score=0.160
+2023-05-17 21:06:01.782 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330645
+2023-05-17 21:11:01.985 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.01356e+02 clubb_c1=3.42528e+00 clubb_gamma_coef=4.24918e-01 zmconv_tau=3.86592e+03 zmconv_dmpdz=-1.34931e-04 : score=0.081
+2023-05-17 21:11:12.458 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330646
+2023-05-17 21:16:12.657 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.21371e+02 clubb_c1=3.39437e+00 clubb_gamma_coef=4.32069e-01 zmconv_tau=3.63800e+03 zmconv_dmpdz=-1.00409e-04 : score=0.123
+2023-05-17 21:16:23.470 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330647
+2023-05-17 21:21:23.729 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.71607e+02 clubb_c1=3.30080e+00 clubb_gamma_coef=4.21546e-01 zmconv_tau=3.87231e+03 zmconv_dmpdz=-1.07339e-04 : score=0.131
+2023-05-17 21:21:33.837 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330648
+2023-05-17 21:26:34.216 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.23697e+02 clubb_c1=3.15965e+00 clubb_gamma_coef=4.13869e-01 zmconv_tau=3.93431e+03 zmconv_dmpdz=-2.10470e-04 : score=0.281
+2023-05-17 21:26:46.315 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330649
+2023-05-17 21:31:46.996 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.34329e+02 clubb_c1=3.29293e+00 clubb_gamma_coef=4.18597e-01 zmconv_tau=3.90720e+03 zmconv_dmpdz=-1.26020e-04 : score=0.108
+2023-05-17 21:31:58.027 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330650
+2023-05-17 21:36:58.551 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.27567e+02 clubb_c1=3.20506e+00 clubb_gamma_coef=4.22742e-01 zmconv_tau=3.78194e+03 zmconv_dmpdz=-1.43203e-04 : score=0.089
+2023-05-17 21:37:09.891 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330651
+2023-05-17 21:42:10.300 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.11055e+02 clubb_c1=3.42781e+00 clubb_gamma_coef=4.13556e-01 zmconv_tau=3.65334e+03 zmconv_dmpdz=-1.04458e-04 : score=0.112
+2023-05-17 21:42:22.219 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330652
+2023-05-17 21:47:22.539 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.87930e+02 clubb_c1=3.34470e+00 clubb_gamma_coef=4.32138e-01 zmconv_tau=3.71348e+03 zmconv_dmpdz=-1.09038e-04 : score=0.032
+2023-05-17 21:47:33.571 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330653
+2023-05-17 21:52:33.831 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.89284e+02 clubb_c1=3.24956e+00 clubb_gamma_coef=4.27324e-01 zmconv_tau=3.70752e+03 zmconv_dmpdz=-1.62689e-04 : score=0.160
+2023-05-17 21:52:44.111 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330654
+2023-05-17 21:57:44.434 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.49624e+02 clubb_c1=3.36456e+00 clubb_gamma_coef=4.31944e-01 zmconv_tau=3.83781e+03 zmconv_dmpdz=-1.48926e-04 : score=0.211
+2023-05-17 21:57:55.818 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330655
+2023-05-17 22:02:56.107 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.76231e+02 clubb_c1=3.37717e+00 clubb_gamma_coef=4.30179e-01 zmconv_tau=3.70046e+03 zmconv_dmpdz=-1.12921e-04 : score=0.087
+2023-05-17 22:03:06.429 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330656
+2023-05-17 22:08:06.684 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.85113e+02 clubb_c1=3.32025e+00 clubb_gamma_coef=4.32268e-01 zmconv_tau=3.69910e+03 zmconv_dmpdz=-1.02303e-04 : score=0.173
+2023-05-17 22:08:18.992 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330657
+2023-05-17 22:13:19.467 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.77567e+02 clubb_c1=3.32867e+00 clubb_gamma_coef=4.25568e-01 zmconv_tau=3.68539e+03 zmconv_dmpdz=-1.17391e-04 : score=0.226
+2023-05-17 22:13:31.504 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330658
+2023-05-17 22:18:31.963 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.48807e+02 clubb_c1=3.27750e+00 clubb_gamma_coef=4.30243e-01 zmconv_tau=3.77106e+03 zmconv_dmpdz=-1.68849e-04 : score=0.174
+2023-05-17 22:18:43.011 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330659
+2023-05-17 22:23:43.592 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.86342e+02 clubb_c1=3.33509e+00 clubb_gamma_coef=4.29514e-01 zmconv_tau=3.78570e+03 zmconv_dmpdz=-1.03581e-04 : score=0.010
+2023-05-17 22:23:53.685 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330660
+2023-05-17 22:28:54.391 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.87209e+02 clubb_c1=3.39122e+00 clubb_gamma_coef=4.24277e-01 zmconv_tau=3.68306e+03 zmconv_dmpdz=-1.28153e-04 : score=0.163
+2023-05-17 22:29:05.190 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330661
+2023-05-17 22:34:05.665 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.41762e+02 clubb_c1=3.27064e+00 clubb_gamma_coef=4.28314e-01 zmconv_tau=3.72337e+03 zmconv_dmpdz=-1.19464e-04 : score=0.109
+2023-05-17 22:34:15.883 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330662
+2023-05-17 22:39:16.374 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92914e+02 clubb_c1=3.42160e+00 clubb_gamma_coef=4.33073e-01 zmconv_tau=3.73840e+03 zmconv_dmpdz=-1.71988e-04 : score=0.119
+2023-05-17 22:39:27.051 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330663
+2023-05-17 22:44:27.536 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95061e+02 clubb_c1=3.40607e+00 clubb_gamma_coef=4.26517e-01 zmconv_tau=3.78186e+03 zmconv_dmpdz=-1.06717e-04 : score=0.164
+2023-05-17 22:44:37.685 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330664
+2023-05-17 22:49:38.243 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.00548e+02 clubb_c1=3.27265e+00 clubb_gamma_coef=4.25061e-01 zmconv_tau=3.76845e+03 zmconv_dmpdz=-1.76639e-04 : score=0.211
+2023-05-17 22:49:49.955 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330665
+2023-05-17 22:54:50.585 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95449e+02 clubb_c1=3.43887e+00 clubb_gamma_coef=4.34417e-01 zmconv_tau=3.73636e+03 zmconv_dmpdz=-1.12743e-04 : score=0.102
+2023-05-17 22:55:06.366 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330671
+2023-05-17 23:00:06.942 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.82916e+02 clubb_c1=3.45537e+00 clubb_gamma_coef=4.33721e-01 zmconv_tau=3.74933e+03 zmconv_dmpdz=-1.01642e-04 : score=0.026
+2023-05-17 23:00:20.382 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330677
+2023-05-17 23:05:21.135 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92853e+02 clubb_c1=3.46336e+00 clubb_gamma_coef=4.36835e-01 zmconv_tau=3.76915e+03 zmconv_dmpdz=-1.33930e-04 : score=0.173
+2023-05-17 23:05:32.856 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330678
+2023-05-17 23:10:33.467 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.98768e+02 clubb_c1=3.46543e+00 clubb_gamma_coef=4.26066e-01 zmconv_tau=3.75287e+03 zmconv_dmpdz=-1.81160e-04 : score=0.209
+2023-05-17 23:10:44.202 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330679
+2023-05-17 23:15:44.898 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.90487e+02 clubb_c1=3.40933e+00 clubb_gamma_coef=4.27453e-01 zmconv_tau=3.74311e+03 zmconv_dmpdz=-1.79097e-04 : score=0.200
+2023-05-17 23:15:59.208 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330681
+2023-05-17 23:20:59.977 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.02040e+02 clubb_c1=3.45286e+00 clubb_gamma_coef=4.27588e-01 zmconv_tau=3.76591e+03 zmconv_dmpdz=-1.08464e-04 : score=0.169
+2023-05-17 23:21:10.615 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330686
+2023-05-17 23:26:11.253 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.99992e+02 clubb_c1=3.41576e+00 clubb_gamma_coef=4.22763e-01 zmconv_tau=3.75433e+03 zmconv_dmpdz=-1.00990e-04 : score=0.141
+2023-05-17 23:26:21.778 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330687
+2023-05-17 23:35:22.379 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.74960e+02 clubb_c1=3.28380e+00 clubb_gamma_coef=4.29444e-01 zmconv_tau=3.80323e+03 zmconv_dmpdz=-1.06560e-04 : score=0.146
+2023-05-17 23:35:33.307 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330689
+2023-05-17 23:42:33.733 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.77490e+02 clubb_c1=3.34834e+00 clubb_gamma_coef=4.32050e-01 zmconv_tau=3.76634e+03 zmconv_dmpdz=-1.05961e-04 : score=0.154
+2023-05-17 23:42:43.364 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330695
+2023-05-17 23:48:44.041 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.76779e+02 clubb_c1=3.28079e+00 clubb_gamma_coef=4.29745e-01 zmconv_tau=3.79928e+03 zmconv_dmpdz=-1.01081e-04 : score=0.159
+2023-05-17 23:48:54.799 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330696
+2023-05-18 00:07:55.645 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.84362e+02 clubb_c1=3.31690e+00 clubb_gamma_coef=4.30081e-01 zmconv_tau=3.76362e+03 zmconv_dmpdz=-1.03234e-04 : score=0.161
+2023-05-18 00:08:05.316 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330703
+2023-05-18 00:13:05.639 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.86146e+02 clubb_c1=3.27892e+00 clubb_gamma_coef=4.30203e-01 zmconv_tau=3.76815e+03 zmconv_dmpdz=-1.06043e-04 : score=0.064
+2023-05-18 00:13:15.642 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330704
+2023-05-18 00:23:16.137 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.74535e+02 clubb_c1=3.29277e+00 clubb_gamma_coef=4.31298e-01 zmconv_tau=3.76479e+03 zmconv_dmpdz=-1.07089e-04 : score=0.135
+2023-05-18 00:23:26.936 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330706
+2023-05-18 00:28:27.224 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.74731e+02 clubb_c1=3.31917e+00 clubb_gamma_coef=4.33149e-01 zmconv_tau=3.76862e+03 zmconv_dmpdz=-1.39993e-04 : score=0.155
+2023-05-18 00:28:37.867 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330709
+2023-05-18 00:33:38.200 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.73435e+02 clubb_c1=3.30635e+00 clubb_gamma_coef=4.29294e-01 zmconv_tau=3.80776e+03 zmconv_dmpdz=-1.04094e-04 : score=0.050
+2023-05-18 00:33:48.045 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330711
+2023-05-18 00:38:48.380 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.75030e+02 clubb_c1=3.39109e+00 clubb_gamma_coef=4.30273e-01 zmconv_tau=3.76756e+03 zmconv_dmpdz=-1.20997e-04 : score=0.121
+2023-05-18 00:38:59.044 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330717
+2023-05-18 00:43:59.373 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.78658e+02 clubb_c1=3.31102e+00 clubb_gamma_coef=4.33075e-01 zmconv_tau=3.76284e+03 zmconv_dmpdz=-1.19530e-04 : score=0.148
+2023-05-18 00:44:09.632 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330718
+2023-05-18 00:49:09.964 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.90989e+02 clubb_c1=3.31027e+00 clubb_gamma_coef=4.29513e-01 zmconv_tau=3.78971e+03 zmconv_dmpdz=-1.05563e-04 : score=0.171
+2023-05-18 00:49:19.990 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330720
+2023-05-18 00:54:20.319 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92066e+02 clubb_c1=3.32453e+00 clubb_gamma_coef=4.28498e-01 zmconv_tau=3.79608e+03 zmconv_dmpdz=-1.00917e-04 : score=0.004
+2023-05-18 00:54:29.644 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330721
+2023-05-18 00:59:29.982 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.84569e+02 clubb_c1=3.33680e+00 clubb_gamma_coef=4.27838e-01 zmconv_tau=3.79560e+03 zmconv_dmpdz=-1.02018e-04 : score=0.129
+2023-05-18 00:59:43.298 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330728
+2023-05-18 01:04:43.676 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92804e+02 clubb_c1=3.35447e+00 clubb_gamma_coef=4.30675e-01 zmconv_tau=3.79671e+03 zmconv_dmpdz=-1.05590e-04 : score=0.148
+2023-05-18 01:04:53.697 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330731
+2023-05-18 01:09:54.099 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.90104e+02 clubb_c1=3.34121e+00 clubb_gamma_coef=4.29242e-01 zmconv_tau=3.79499e+03 zmconv_dmpdz=-1.04908e-04 : score=0.088
+2023-05-18 01:10:04.000 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330737
+2023-05-18 01:15:04.295 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92173e+02 clubb_c1=3.32952e+00 clubb_gamma_coef=4.31016e-01 zmconv_tau=3.79479e+03 zmconv_dmpdz=-1.10029e-04 : score=0.149
+2023-05-18 01:15:13.477 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330741
+2023-05-18 01:20:13.792 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92218e+02 clubb_c1=3.31682e+00 clubb_gamma_coef=4.29686e-01 zmconv_tau=3.79842e+03 zmconv_dmpdz=-1.21886e-04 : score=0.099
+2023-05-18 01:20:23.086 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330743
+2023-05-18 01:25:23.424 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.90245e+02 clubb_c1=3.32612e+00 clubb_gamma_coef=4.29936e-01 zmconv_tau=3.79748e+03 zmconv_dmpdz=-1.06733e-04 : score=0.088
+2023-05-18 01:25:32.611 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330747
+2023-05-18 01:30:32.938 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.92554e+02 clubb_c1=3.31502e+00 clubb_gamma_coef=4.30813e-01 zmconv_tau=3.79110e+03 zmconv_dmpdz=-1.00567e-04 : score=0.030
+2023-05-18 01:30:42.415 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330754
+2023-05-18 01:35:42.960 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.83403e+02 clubb_c1=3.33081e+00 clubb_gamma_coef=4.28122e-01 zmconv_tau=3.79759e+03 zmconv_dmpdz=-1.09236e-04 : score=0.137
+2023-05-18 01:35:52.900 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330756
+2023-05-18 01:40:53.216 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95061e+02 clubb_c1=3.31091e+00 clubb_gamma_coef=4.28942e-01 zmconv_tau=3.79822e+03 zmconv_dmpdz=-1.04337e-04 : score=0.049
+2023-05-18 01:41:03.088 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330765
+2023-05-18 01:46:03.449 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95977e+02 clubb_c1=3.31614e+00 clubb_gamma_coef=4.28139e-01 zmconv_tau=3.79723e+03 zmconv_dmpdz=-1.00493e-04 : score=0.158
+2023-05-18 01:46:13.479 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330770
+2023-05-18 01:51:13.848 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96829e+02 clubb_c1=3.31022e+00 clubb_gamma_coef=4.27573e-01 zmconv_tau=3.80509e+03 zmconv_dmpdz=-1.06433e-04 : score=0.108
+2023-05-18 01:51:23.596 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330771
+2023-05-18 01:56:23.934 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96851e+02 clubb_c1=3.35068e+00 clubb_gamma_coef=4.27268e-01 zmconv_tau=3.79489e+03 zmconv_dmpdz=-1.02387e-04 : score=0.088
+2023-05-18 01:56:33.982 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330774
+2023-05-18 02:01:34.306 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96364e+02 clubb_c1=3.29595e+00 clubb_gamma_coef=4.27531e-01 zmconv_tau=3.80722e+03 zmconv_dmpdz=-1.11997e-04 : score=0.092
+2023-05-18 02:01:42.651 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330781
+2023-05-18 02:06:42.950 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.94963e+02 clubb_c1=3.30238e+00 clubb_gamma_coef=4.27705e-01 zmconv_tau=3.79345e+03 zmconv_dmpdz=-1.02534e-04 : score=0.190
+2023-05-18 02:06:52.236 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330790
+2023-05-18 02:11:52.647 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.95020e+02 clubb_c1=3.31939e+00 clubb_gamma_coef=4.26657e-01 zmconv_tau=3.80650e+03 zmconv_dmpdz=-1.02938e-04 : score=0.142
+2023-05-18 02:12:01.937 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330791
+2023-05-18 02:17:02.291 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96702e+02 clubb_c1=3.31449e+00 clubb_gamma_coef=4.27166e-01 zmconv_tau=3.78912e+03 zmconv_dmpdz=-1.05601e-04 : score=0.084
+2023-05-18 02:17:12.519 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330793
+2023-05-18 02:22:12.814 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96562e+02 clubb_c1=3.29912e+00 clubb_gamma_coef=4.27209e-01 zmconv_tau=3.78387e+03 zmconv_dmpdz=-1.00089e-04 : score=0.153
+2023-05-18 02:22:22.871 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330799
+2023-05-18 02:27:23.135 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.96352e+02 clubb_c1=3.33742e+00 clubb_gamma_coef=4.27341e-01 zmconv_tau=3.78960e+03 zmconv_dmpdz=-1.04698e-04 : score=0.137
+2023-05-18 02:27:34.033 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330803
+2023-05-18 02:32:34.358 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.87036e+02 clubb_c1=4.56044e+00 clubb_gamma_coef=4.98717e-01 zmconv_tau=2.55153e+03 zmconv_dmpdz=-1.74104e-04 : score=0.227
+2023-05-18 02:32:44.044 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330804
+2023-05-18 02:37:44.330 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.14928e+03 clubb_c1=1.02724e+00 clubb_gamma_coef=1.75102e-01 zmconv_tau=3.19548e+03 zmconv_dmpdz=-1.82752e-03 : score=0.275
+2023-05-18 02:37:54.240 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330805
+2023-05-18 02:42:54.549 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.10947e+03 clubb_c1=1.86500e+00 clubb_gamma_coef=2.69326e-01 zmconv_tau=3.81115e+03 zmconv_dmpdz=-9.89850e-04 : score=0.283
+2023-05-18 02:43:04.049 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330807
+2023-05-18 02:48:04.258 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.19717e+03 clubb_c1=3.84441e+00 clubb_gamma_coef=4.21222e-01 zmconv_tau=2.80299e+03 zmconv_dmpdz=-1.96527e-03 : score=0.244
+2023-05-18 02:48:15.278 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330810
+2023-05-18 02:53:15.523 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.83965e+02 clubb_c1=2.71488e+00 clubb_gamma_coef=1.06663e-01 zmconv_tau=3.37496e+03 zmconv_dmpdz=-1.48749e-03 : score=0.243
+2023-05-18 02:53:25.662 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330811
+2023-05-18 02:58:25.971 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.64448e+02 clubb_c1=1.20598e+00 clubb_gamma_coef=3.18585e-01 zmconv_tau=4.99597e+03 zmconv_dmpdz=-1.10646e-03 : score=0.220
+2023-05-18 02:58:35.549 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330813
+2023-05-18 03:03:35.901 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.31891e+03 clubb_c1=1.52153e+00 clubb_gamma_coef=1.44371e-01 zmconv_tau=4.77843e+03 zmconv_dmpdz=-2.55741e-04 : score=0.230
+2023-05-18 03:03:45.139 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330822
+2023-05-18 03:08:45.615 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.12183e+02 clubb_c1=3.21513e+00 clubb_gamma_coef=1.88563e-01 zmconv_tau=2.10424e+03 zmconv_dmpdz=-7.28584e-04 : score=0.230
+2023-05-18 03:08:55.273 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330826
+2023-05-18 03:13:55.744 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.02372e+03 clubb_c1=4.27880e+00 clubb_gamma_coef=2.14606e-01 zmconv_tau=2.28635e+03 zmconv_dmpdz=-8.60234e-04 : score=0.316
+2023-05-18 03:14:05.020 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330830
+2023-05-18 03:19:05.374 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.36743e+02 clubb_c1=4.93911e+00 clubb_gamma_coef=2.33168e-01 zmconv_tau=4.27185e+03 zmconv_dmpdz=-6.25420e-04 : score=0.257
+2023-05-18 03:19:15.433 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330831
+2023-05-18 03:24:15.851 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.63107e+02 clubb_c1=4.74317e+00 clubb_gamma_coef=1.34508e-01 zmconv_tau=2.23678e+03 zmconv_dmpdz=-1.69663e-03 : score=0.279
+2023-05-18 03:24:25.642 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330834
+2023-05-18 03:29:25.988 | INFO     | __main__:run_model:130 -  ice_sed_ai=3.67989e+02 clubb_c1=3.41325e+00 clubb_gamma_coef=4.46700e-01 zmconv_tau=1.88656e+03 zmconv_dmpdz=-1.57230e-03 : score=0.390
+2023-05-18 03:29:36.522 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330843
+2023-05-18 03:34:37.054 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.25394e+03 clubb_c1=4.14165e+00 clubb_gamma_coef=3.20810e-01 zmconv_tau=4.63252e+03 zmconv_dmpdz=-4.61826e-04 : score=0.199
+2023-05-18 03:34:46.320 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330846
+2023-05-18 03:39:46.664 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.36307e+03 clubb_c1=3.72476e+00 clubb_gamma_coef=2.88477e-01 zmconv_tau=4.45049e+03 zmconv_dmpdz=-1.73499e-03 : score=0.207
+2023-05-18 03:39:55.888 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330848
+2023-05-18 03:44:56.427 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.05947e+03 clubb_c1=2.22036e+00 clubb_gamma_coef=3.80992e-01 zmconv_tau=3.90465e+03 zmconv_dmpdz=-7.78820e-04 : score=0.274
+2023-05-18 03:45:05.754 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330850
+2023-05-18 03:50:06.119 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.12137e+02 clubb_c1=3.10243e+00 clubb_gamma_coef=3.56917e-01 zmconv_tau=3.04869e+03 zmconv_dmpdz=-1.24884e-03 : score=0.311
+2023-05-18 03:50:30.324 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330853
+2023-05-18 03:55:30.750 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.47409e+02 clubb_c1=2.43311e+00 clubb_gamma_coef=4.14374e-01 zmconv_tau=3.42653e+03 zmconv_dmpdz=-3.21576e-04 : score=0.233
+2023-05-18 03:55:40.569 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330859
+2023-05-18 04:00:40.864 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.33014e+02 clubb_c1=2.90901e+00 clubb_gamma_coef=4.61566e-01 zmconv_tau=4.12577e+03 zmconv_dmpdz=-1.34418e-03 : score=0.272
+2023-05-18 04:00:51.224 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330862
+2023-05-18 04:05:51.564 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.01230e+02 clubb_c1=2.06017e+00 clubb_gamma_coef=2.59376e-01 zmconv_tau=2.69394e+03 zmconv_dmpdz=-5.04202e-04 : score=0.187
+2023-05-18 04:06:02.553 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330863
+2023-05-18 04:11:02.944 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.25960e+02 clubb_c1=1.78324e+00 clubb_gamma_coef=3.67228e-01 zmconv_tau=3.69670e+03 zmconv_dmpdz=-1.16702e-03 : score=0.251
+2023-05-18 04:11:12.055 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330868
+2023-05-18 04:16:12.393 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.08551e+02 clubb_c1=1.06720e+00 clubb_gamma_coef=1.50359e-01 zmconv_tau=1.94147e+03 zmconv_dmpdz=-4.24295e-04 : score=0.169
+2023-05-18 04:16:21.560 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330871
+2023-05-18 04:21:21.837 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.18730e+02 clubb_c1=3.72518e+00 clubb_gamma_coef=3.98770e-01 zmconv_tau=4.26095e+03 zmconv_dmpdz=-3.38190e-04 : score=0.171
+2023-05-18 04:21:32.052 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330878
+2023-05-18 04:26:32.409 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.86131e+02 clubb_c1=1.38537e+00 clubb_gamma_coef=3.65194e-01 zmconv_tau=2.23233e+03 zmconv_dmpdz=-2.83463e-04 : score=0.219
+2023-05-18 04:26:42.444 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330883
+2023-05-18 04:31:42.854 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.65543e+02 clubb_c1=2.29309e+00 clubb_gamma_coef=1.86881e-01 zmconv_tau=3.42795e+03 zmconv_dmpdz=-6.17248e-04 : score=0.272
+2023-05-18 04:31:52.000 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330887
+2023-05-18 04:36:52.381 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.04453e+02 clubb_c1=3.02122e+00 clubb_gamma_coef=1.33518e-01 zmconv_tau=2.42025e+03 zmconv_dmpdz=-2.64437e-04 : score=0.309
+2023-05-18 04:37:01.250 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330894
+2023-05-18 04:42:01.622 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.43995e+02 clubb_c1=2.05444e+00 clubb_gamma_coef=1.07576e-01 zmconv_tau=3.91218e+03 zmconv_dmpdz=-6.34109e-04 : score=0.246
+2023-05-18 04:42:10.372 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330896
+2023-05-18 04:47:10.749 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.51731e+02 clubb_c1=1.81901e+00 clubb_gamma_coef=3.52786e-01 zmconv_tau=2.60877e+03 zmconv_dmpdz=-2.66141e-04 : score=0.296
+2023-05-18 04:47:19.926 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330899
+2023-05-18 04:52:20.297 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.31328e+02 clubb_c1=2.72907e+00 clubb_gamma_coef=1.67993e-01 zmconv_tau=2.87436e+03 zmconv_dmpdz=-1.23094e-04 : score=0.118
+2023-05-18 04:52:29.264 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330901
+2023-05-18 04:57:29.718 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.24188e+02 clubb_c1=1.02437e+00 clubb_gamma_coef=4.74239e-01 zmconv_tau=4.48312e+03 zmconv_dmpdz=-7.56403e-04 : score=0.242
+2023-05-18 04:57:38.284 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330903
+2023-05-18 05:02:38.815 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.93840e+02 clubb_c1=1.66521e+00 clubb_gamma_coef=1.55061e-01 zmconv_tau=3.58484e+03 zmconv_dmpdz=-2.60219e-04 : score=0.173
+2023-05-18 05:02:48.368 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330904
+2023-05-18 05:07:48.633 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.10089e+03 clubb_c1=2.04113e+00 clubb_gamma_coef=1.18225e-01 zmconv_tau=2.76976e+03 zmconv_dmpdz=-7.94447e-04 : score=0.298
+2023-05-18 05:07:57.399 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330907
+2023-05-18 05:12:57.821 | INFO     | __main__:run_model:130 -  ice_sed_ai=4.15742e+02 clubb_c1=3.38172e+00 clubb_gamma_coef=2.68146e-01 zmconv_tau=3.72115e+03 zmconv_dmpdz=-5.03463e-04 : score=0.253
+2023-05-18 05:13:07.990 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330910
+2023-05-18 05:18:08.279 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.07639e+03 clubb_c1=3.99160e+00 clubb_gamma_coef=2.02557e-01 zmconv_tau=3.16751e+03 zmconv_dmpdz=-6.93340e-04 : score=0.212
+2023-05-18 05:18:17.594 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330915
+2023-05-18 05:23:20.751 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.90519e+02 clubb_c1=2.83766e+00 clubb_gamma_coef=1.66772e-01 zmconv_tau=2.87626e+03 zmconv_dmpdz=-4.29919e-04 : score=0.302
+2023-05-18 05:23:30.535 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330916
+2023-05-18 05:28:31.206 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.37963e+02 clubb_c1=1.97580e+00 clubb_gamma_coef=2.00952e-01 zmconv_tau=3.64837e+03 zmconv_dmpdz=-4.67516e-04 : score=0.232
+2023-05-18 05:28:41.896 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330920
+2023-05-18 05:33:42.370 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.74165e+02 clubb_c1=2.16176e+00 clubb_gamma_coef=2.18233e-01 zmconv_tau=2.86530e+03 zmconv_dmpdz=-5.27714e-04 : score=0.183
+2023-05-18 05:33:56.423 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330922
+2023-05-18 05:38:57.385 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.02647e+03 clubb_c1=1.57444e+00 clubb_gamma_coef=1.24530e-01 zmconv_tau=3.26618e+03 zmconv_dmpdz=-2.42535e-04 : score=0.177
+2023-05-18 05:39:11.664 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330924
+2023-05-18 05:44:12.345 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.18543e+02 clubb_c1=1.38379e+00 clubb_gamma_coef=2.09746e-01 zmconv_tau=3.84719e+03 zmconv_dmpdz=-2.24854e-04 : score=0.198
+2023-05-18 05:44:24.800 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330925
+2023-05-18 05:49:25.667 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.65536e+02 clubb_c1=2.33925e+00 clubb_gamma_coef=2.03447e-01 zmconv_tau=3.41069e+03 zmconv_dmpdz=-1.50706e-04 : score=0.113
+2023-05-18 05:49:38.206 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330927
+2023-05-18 05:54:39.197 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.65625e+02 clubb_c1=2.76210e+00 clubb_gamma_coef=2.40295e-01 zmconv_tau=2.86050e+03 zmconv_dmpdz=-3.52192e-04 : score=0.187
+2023-05-18 05:54:52.767 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330929
+2023-05-18 05:59:53.468 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.66363e+02 clubb_c1=1.43103e+00 clubb_gamma_coef=1.74021e-01 zmconv_tau=3.27690e+03 zmconv_dmpdz=-1.68486e-04 : score=0.203
+2023-05-18 06:00:06.326 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330933
+2023-05-18 06:05:07.244 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.96208e+02 clubb_c1=2.35949e+00 clubb_gamma_coef=1.08096e-01 zmconv_tau=3.84048e+03 zmconv_dmpdz=-1.30484e-04 : score=0.086
+2023-05-18 06:05:21.146 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330934
+2023-05-18 06:10:22.181 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.38101e+02 clubb_c1=2.81382e+00 clubb_gamma_coef=1.47010e-01 zmconv_tau=4.34108e+03 zmconv_dmpdz=-2.96510e-04 : score=0.285
+2023-05-18 06:10:36.296 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330935
+2023-05-18 06:15:37.374 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.10972e+02 clubb_c1=3.20137e+00 clubb_gamma_coef=3.07033e-01 zmconv_tau=4.12886e+03 zmconv_dmpdz=-3.75704e-04 : score=0.193
+2023-05-18 06:15:51.213 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330936
+2023-05-18 06:20:52.039 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.04215e+02 clubb_c1=1.53134e+00 clubb_gamma_coef=1.39137e-01 zmconv_tau=2.68234e+03 zmconv_dmpdz=-3.86404e-04 : score=0.228
+2023-05-18 06:21:06.538 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330940
+2023-05-18 06:26:07.458 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.07687e+03 clubb_c1=2.74541e+00 clubb_gamma_coef=2.06490e-01 zmconv_tau=3.10725e+03 zmconv_dmpdz=-1.40680e-04 : score=0.033
+2023-05-18 06:26:21.244 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330943
+2023-05-18 06:31:22.428 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.06697e+02 clubb_c1=2.19644e+00 clubb_gamma_coef=1.68463e-01 zmconv_tau=2.99889e+03 zmconv_dmpdz=-2.36806e-04 : score=0.138
+2023-05-18 06:31:37.315 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330946
+2023-05-18 06:36:38.453 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.14815e+03 clubb_c1=3.46219e+00 clubb_gamma_coef=1.57747e-01 zmconv_tau=4.06593e+03 zmconv_dmpdz=-2.28594e-04 : score=0.189
+2023-05-18 06:36:52.868 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330948
+2023-05-18 06:41:53.730 | INFO     | __main__:run_model:130 -  ice_sed_ai=9.21161e+02 clubb_c1=1.39528e+00 clubb_gamma_coef=1.39870e-01 zmconv_tau=4.59578e+03 zmconv_dmpdz=-5.66167e-04 : score=0.221
+2023-05-18 06:42:07.112 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330951
+2023-05-18 06:47:08.101 | INFO     | __main__:run_model:130 -  ice_sed_ai=8.96005e+02 clubb_c1=2.94481e+00 clubb_gamma_coef=2.67656e-01 zmconv_tau=3.40866e+03 zmconv_dmpdz=-1.93276e-04 : score=0.144
+2023-05-18 06:47:24.047 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330952
+2023-05-18 06:52:25.110 | INFO     | __main__:run_model:130 -  ice_sed_ai=5.60554e+02 clubb_c1=4.11687e+00 clubb_gamma_coef=1.29394e-01 zmconv_tau=4.07830e+03 zmconv_dmpdz=-5.56575e-04 : score=0.255
+2023-05-18 06:52:39.613 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330960
+2023-05-18 06:57:40.297 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.09634e+03 clubb_c1=4.68624e+00 clubb_gamma_coef=3.56766e-01 zmconv_tau=4.60753e+03 zmconv_dmpdz=-2.54720e-04 : score=0.228
+2023-05-18 06:57:53.795 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330964
+2023-05-18 07:02:54.928 | INFO     | __main__:run_model:130 -  ice_sed_ai=3.88830e+02 clubb_c1=1.16522e+00 clubb_gamma_coef=3.35775e-01 zmconv_tau=1.90391e+03 zmconv_dmpdz=-3.95332e-04 : score=0.236
+2023-05-18 07:03:09.280 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330965
+2023-05-18 07:08:10.108 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.16645e+03 clubb_c1=3.50045e+00 clubb_gamma_coef=1.96186e-01 zmconv_tau=3.16987e+03 zmconv_dmpdz=-1.70120e-04 : score=0.059
+2023-05-18 07:08:23.772 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330966
+2023-05-18 07:13:24.480 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.00442e+03 clubb_c1=3.21620e+00 clubb_gamma_coef=4.86491e-01 zmconv_tau=3.63994e+03 zmconv_dmpdz=-1.31496e-04 : score=0.122
+2023-05-18 07:13:36.690 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330968
+2023-05-18 07:18:37.052 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.67988e+02 clubb_c1=2.52825e+00 clubb_gamma_coef=1.00583e-01 zmconv_tau=3.11401e+03 zmconv_dmpdz=-1.06677e-04 : score=0.039
+2023-05-18 07:18:47.777 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330977
+2023-05-18 07:23:48.041 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.28566e+03 clubb_c1=2.91453e+00 clubb_gamma_coef=1.49690e-01 zmconv_tau=3.78134e+03 zmconv_dmpdz=-1.87020e-04 : score=0.136
+2023-05-18 07:23:58.823 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330979
+2023-05-18 07:28:59.105 | INFO     | __main__:run_model:130 -  ice_sed_ai=6.63986e+02 clubb_c1=4.33722e+00 clubb_gamma_coef=4.58134e-01 zmconv_tau=4.51898e+03 zmconv_dmpdz=-6.49355e-04 : score=0.225
+2023-05-18 07:29:09.498 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330980
+2023-05-18 07:34:09.700 | INFO     | __main__:run_model:130 -  ice_sed_ai=1.22381e+03 clubb_c1=2.54572e+00 clubb_gamma_coef=3.29329e-01 zmconv_tau=3.49686e+03 zmconv_dmpdz=-2.34023e-04 : score=0.216
+2023-05-18 07:34:20.739 | DEBUG    | __main__:run_model:121 - Submit E3SM with job id 330981
+2023-05-18 07:39:20.989 | INFO     | __main__:run_model:130 -  ice_sed_ai=7.58990e+02 clubb_c1=4.53589e+00 clubb_gamma_coef=2.19126e-01 zmconv_tau=3.30949e+03 zmconv_dmpdz=-1.34066e-04 : score=0.182

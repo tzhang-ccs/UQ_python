@@ -1,0 +1,20 @@
+2023-05-24 10:59:24.373 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333622
+2023-05-24 11:04:26.203 | INFO     | __main__:run_model:133 -  ice_sed_ai=8.69332e+02 clubb_c1=1.91233e+00 clubb_gamma_coef=2.02190e-01 zmconv_tau=3.00741e+03 zmconv_dmpdz=-1.24697e-03 : score=-0.242
+2023-05-24 11:04:44.621 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333623
+2023-05-24 11:12:45.209 | INFO     | __main__:run_model:133 -  ice_sed_ai=1.39640e+03 clubb_c1=2.63279e+00 clubb_gamma_coef=4.08758e-01 zmconv_tau=2.79203e+03 zmconv_dmpdz=-5.54980e-04 : score=-0.231
+2023-05-24 11:12:57.737 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333633
+2023-05-24 11:18:58.145 | INFO     | __main__:run_model:133 -  ice_sed_ai=7.13868e+02 clubb_c1=2.40706e+00 clubb_gamma_coef=1.58187e-01 zmconv_tau=4.70937e+03 zmconv_dmpdz=-1.51937e-04 : score=-0.022
+2023-05-24 11:19:31.881 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333636
+2023-05-24 11:28:32.255 | INFO     | __main__:run_model:133 -  ice_sed_ai=9.37955e+02 clubb_c1=2.25436e+00 clubb_gamma_coef=4.55280e-01 zmconv_tau=3.05148e+03 zmconv_dmpdz=-7.18311e-04 : score=-0.274
+2023-05-24 11:28:43.418 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333638
+2023-05-24 11:33:43.744 | INFO     | __main__:run_model:133 -  ice_sed_ai=8.82543e+02 clubb_c1=3.09641e+00 clubb_gamma_coef=4.71200e-01 zmconv_tau=3.93868e+03 zmconv_dmpdz=-9.14391e-04 : score=-0.327
+2023-05-24 11:33:56.024 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333641
+2023-05-24 11:38:56.364 | INFO     | __main__:run_model:133 -  ice_sed_ai=7.13850e+02 clubb_c1=3.40929e+00 clubb_gamma_coef=2.82386e-01 zmconv_tau=4.71263e+03 zmconv_dmpdz=-2.72139e-04 : score=-0.165
+2023-05-24 11:39:08.873 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333645
+2023-05-24 11:44:09.238 | INFO     | __main__:run_model:133 -  ice_sed_ai=7.05432e+02 clubb_c1=4.64841e+00 clubb_gamma_coef=2.03444e-01 zmconv_tau=4.69962e+03 zmconv_dmpdz=-1.88792e-03 : score=-0.280
+2023-05-24 11:44:25.627 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333648
+2023-05-24 11:49:25.939 | INFO     | __main__:run_model:133 -  ice_sed_ai=7.16413e+02 clubb_c1=1.33340e+00 clubb_gamma_coef=1.55819e-01 zmconv_tau=4.71033e+03 zmconv_dmpdz=-5.41236e-04 : score=-0.286
+2023-05-24 11:49:40.900 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333652
+2023-05-24 11:54:41.365 | INFO     | __main__:run_model:133 -  ice_sed_ai=1.00972e+03 clubb_c1=4.37326e+00 clubb_gamma_coef=3.49280e-01 zmconv_tau=3.94126e+03 zmconv_dmpdz=-1.45333e-03 : score=-0.269
+2023-05-24 11:55:07.410 | DEBUG    | __main__:run_model:124 - Submit E3SM with job id 333653
+2023-05-24 12:01:07.754 | INFO     | __main__:run_model:133 -  ice_sed_ai=1.31521e+03 clubb_c1=4.53625e+00 clubb_gamma_coef=1.84669e-01 zmconv_tau=3.45834e+03 zmconv_dmpdz=-1.01563e-04 : score=-0.049
